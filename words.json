@@ -1,0 +1,1978 @@
+[
+ {
+  "word": "except",
+  "partOfSpeech": "preposition",
+  "definition": "Except is usually a preposition meaning with the exclusion of, and occasionally a verb meaning to leave out. Accept, by contrast, is a verb meaning to receive something willingly or agree to it. One shuts out; the other takes in.",
+  "commonMisuse": "These near-homophones blur together in fast speech, so the slip is almost always a spelling error. Writers type accept for except and vice versa. The fix is meaning: if you can substitute 'agree to,' use accept; if you can substitute 'leave out,' use except. Note that except and exclude both carry an x.",
+  "exampleCorrect": "Every dealer on the floor agreed to accept the new commission terms except one, who walked out before the vote.",
+  "exampleMisused": "The store excepts returns within thirty days, and I'd be happy to except your invitation to the launch party."
+ },
+ {
+  "word": "accommodate",
+  "partOfSpeech": "verb",
+  "definition": "To provide lodging or room for someone, or to adjust and adapt in order to fit someone's needs or wishes. It carries the sense of making space, literal or figurative.",
+  "commonMisuse": "People drop a letter and write \"acommodate\" or \"accomodate.\" The word needs a double c and a double m, but English rarely doubles consonants so generously, so writers trust their ear, hear no doubled sound, and shortchange one pair.",
+  "exampleCorrect": "The conference hotel could accommodate four hundred guests, but the keynote drew far more, leaving dozens standing along the walls.",
+  "exampleMisused": "Please let us know if we can accomodate any dietary restrictions."
+ },
+ {
+  "word": "Achilles' heel",
+  "partOfSpeech": "noun",
+  "definition": "A single, specific point of vulnerability in a person or thing that is otherwise strong, powerful, or well protected, capable of causing serious downfall.",
+  "commonMisuse": "It is sometimes stretched to mean any general weakness or shortcoming. The phrase, from the myth of Achilles being invulnerable except at his heel, properly names one isolated flaw in something otherwise formidable.",
+  "exampleCorrect": "The fortress was impregnable except for one unguarded drainage tunnel, the defenders' Achilles' heel.",
+  "exampleMisused": "He listed several Achilles' heels on his resume, including poor spelling and disorganization."
+ },
+ {
+  "word": "ad hominem",
+  "partOfSpeech": "adjective",
+  "definition": "Attacking the person making an argument rather than the argument itself. Latin for to the person. A classic logical fallacy: dismissing a claim by pointing out something unflattering about the claimant.",
+  "commonMisuse": "Ad hominem has become a catchall for any insult during an argument. Strictly, it's only the fallacy when the personal attack is offered in place of an actual rebuttal. Saying you're wrong, and also rude is not an ad hominem; saying you're wrong because you're rude is.",
+  "exampleCorrect": "The senator's ad hominem attack on the witness's background did nothing to address the actual data she had presented.",
+  "exampleMisused": "He claimed her critique of his thesis was an ad hominem attack, though she had only criticized his argument."
+ },
+ {
+  "word": "ad nauseam",
+  "partOfSpeech": "adverb",
+  "definition": "To a degree so excessive or prolonged that it becomes tiresome or sickening, describing something repeated far past the point where listeners or readers remain interested.",
+  "commonMisuse": "This Latin phrase, literally 'to nausea,' is frequently misspelled 'ad nauseum.' The correct ending is '-eam,' from the Latin noun 'nausea,' not the '-eum' ending people mistakenly add by analogy.",
+  "exampleCorrect": "The senator repeated his single talking point ad nauseam until even his own staffers stopped listening.",
+  "exampleMisused": "Her review complained that the film discussed its central metaphor ad nauseum."
+ },
+ {
+  "word": "averse",
+  "partOfSpeech": "adjective",
+  "definition": "Averse means strongly reluctant or opposed, describing a person's feelings. Adverse, its look-alike, means unfavorable or harmful, describing conditions, effects, or circumstances. Averse applies to attitudes; adverse applies to things.",
+  "commonMisuse": "Averse gets swapped in where adverse belongs, and the reverse happens too, because the words sound and look alike. The reliable split: weather, side effects, and outcomes are adverse, while people who dislike risk or confrontation are averse. If a feeling is involved, reach for averse.",
+  "exampleCorrect": "The fund manager was personally averse to risk, so adverse market conditions never tempted him into anything more exotic than bonds.",
+  "exampleMisused": "I'm a little adverse to flying in winter, especially when averse weather keeps grounding the early flights."
+ },
+ {
+  "word": "affect",
+  "partOfSpeech": "verb",
+  "definition": "Affect is almost always a verb meaning to influence or have an impact on something. Effect is almost always a noun meaning the result or consequence of an action. Affect is the cause; effect is the outcome.",
+  "commonMisuse": "The two sound nearly identical, so writers swap them constantly. Trouble deepens because each has a rare crossover sense: affect can be a psychology noun, and effect can be a verb meaning to bring about, which makes 'effect change' correct and 'affect change' a common slip.",
+  "exampleCorrect": "The new tariffs will affect every small importer on the coast, and the chilling effect on hiring is already showing up in the data.",
+  "exampleMisused": "We're still measuring how the policy will affect, but the antibiotics definitely effected my stomach last winter."
+ },
+ {
+  "word": "all of a sudden",
+  "partOfSpeech": "idiom",
+  "definition": "Suddenly; happening without warning or notice. The phrase emphasizes the abruptness of an event, signaling that things changed faster than anyone expected.",
+  "commonMisuse": "The phrase often gets written as 'all of the sudden,' substituting 'the' for the historically standard 'a.' Both forms turn up in print, but dictionaries record 'all of a sudden' as the established idiom, with 'all of the sudden' considered a casual variant rather than the preferred form.",
+  "exampleCorrect": "We were halfway through dessert when all of a sudden the lights cut out across the entire block.",
+  "exampleMisused": "All of the sudden it started pouring rain in the middle of the picnic, the post read, instead of all of a sudden."
+ },
+ {
+  "word": "allude",
+  "partOfSpeech": "verb",
+  "definition": "Allude means to refer to something indirectly, hinting at it without naming it. Elude means to skillfully avoid being caught, understood, or remembered. One points toward a subject; the other slips away from a pursuer.",
+  "commonMisuse": "The two sound alike and share the Latin root ludere, so writers reach for allude when they mean elude, especially in 'elude capture.' A memory aid: elude shares its e with escape, while allude shares its a with 'speak about.'",
+  "exampleCorrect": "In her toast she paused to allude to an old family joke, while the punchline itself continued to elude half the room.",
+  "exampleMisused": "The fugitive managed to allude capture for six months, and the senator chose to elude to the scandal without naming names."
+ },
+ {
+  "word": "allusion",
+  "partOfSpeech": "noun",
+  "definition": "An allusion is an indirect or passing reference to a person, work, or event the listener is expected to recognize. An illusion is a false impression of reality, whether a trick of the senses or a mistaken belief.",
+  "commonMisuse": "Writers swap illusion in for allusion because the words sound alike and share the Latin root ludere, 'to play.' The teaching split: an allusion is a literary or conversational hint, while an illusion fools the eye or the mind. A magic trick is an illusion, never an allusion.",
+  "exampleCorrect": "The painted backdrop creates the illusion of a deep corridor, and the dialogue is full of sly allusions to old Hollywood.",
+  "exampleMisused": "The novel opens with an illusion to a forgotten battle, and the magician's final allusion involved a live tiger."
+ },
+ {
+  "word": "alternate",
+  "partOfSpeech": "adjective / noun",
+  "definition": "Alternate means every other one in a series, or a substitute that fills in. Alternative means a different option, one of two or more choices.",
+  "commonMisuse": "People say 'alternate route' or 'alternate plan' when they mean a different option to choose from, which is 'alternative'. 'Alternate' properly means taking turns ('alternate days') or standing in as a backup, as a juror's alternate does.",
+  "exampleCorrect": "With the highway closed, the app suggested an alternative route, while the relay team practiced on alternate days to stay fresh.",
+  "exampleMisused": "If the first hotel is full, we'll need to find an alternate."
+ },
+ {
+  "word": "altogether",
+  "partOfSpeech": "adverb",
+  "definition": "Altogether is one word, an adverb meaning entirely, completely, or in total. All together is two words, a phrase meaning in a group or all in one place. One measures degree; the other gathers people or things.",
+  "commonMisuse": "The phrases sound identical, so writers fuse all together into altogether when describing a group. 'The choir sang all together' means they performed in unison; 'the choir sang altogether' would mean they sang completely, a stranger claim. If a group is gathered, keep the two words apart.",
+  "exampleCorrect": "The repairs cost nearly four thousand dollars altogether, so the family finally sat all together at the kitchen table to rework the budget.",
+  "exampleMisused": "We finally got the cousins altogether for one photo, and the bill came to three hundred dollars all together."
+ },
+ {
+  "word": "alumnus",
+  "partOfSpeech": "noun",
+  "definition": "An alumnus is one male graduate, an alumna one female graduate. Alumni is the plural for a group, used for men or for any mixed group; alumnae is the all-female plural.",
+  "commonMisuse": "People call one person 'an alumni', since the Latin forms feel interchangeable and 'alumni' is the version everyone hears. For a single graduate it should be alumnus or alumna. Many now sidestep the whole tangle with the informal 'alum'.",
+  "exampleCorrect": "As a proud alumna of the college, she joined hundreds of fellow alumni at the reunion gala in October.",
+  "exampleMisused": "He introduced himself as an alumni of the business school."
+ },
+ {
+  "word": "ambivalent",
+  "partOfSpeech": "adjective",
+  "definition": "Ambivalent means having mixed, contradictory feelings about something. Ambiguous, often confused with it, means open to more than one interpretation; unclear in meaning. Ambivalent describes a person pulled two ways; ambiguous describes language or situations.",
+  "commonMisuse": "Ambivalent gets used for ambiguous because both start with the Latin ambi-, 'both.' But a contract clause is ambiguous, never ambivalent; only people can be ambivalent. Ambivalent is also wrongly used to mean indifferent, when it actually means caring about both sides at once.",
+  "exampleCorrect": "The renewal clause was deliberately ambiguous, which left her ambivalent about signing a lease she could read two ways.",
+  "exampleMisused": "I'm pretty ambiguous about the job offer, and the staff seemed ambivalent about the new dress code, barely reading the memo."
+ },
+ {
+  "word": "amount",
+  "partOfSpeech": "noun",
+  "definition": "Amount refers to a quantity measured in bulk, like an amount of water, traffic, or noise. Number refers to a quantity of separate, countable items, like a number of guests, books, or complaints. One is measured; the other is tallied.",
+  "commonMisuse": "Writers reach for amount with countable nouns, producing 'a large amount of people,' where number is correct. The mistake feels natural because amount sounds like a catch-all for quantity. The test: if you could line the items up and count them one by one, use number.",
+  "exampleCorrect": "The brewery uses an enormous amount of water each week to serve a growing number of taprooms across the state.",
+  "exampleMisused": "A surprising amount of fans showed up, and the campaign collected a small number of cash from local donors."
+ },
+ {
+  "word": "anachronism",
+  "partOfSpeech": "noun",
+  "definition": "Something out of its proper time period: a person, object, custom, or idea that doesn't belong in the era where it appears. From Greek ana- (against) and chronos (time).",
+  "commonMisuse": "Anachronism is a chronological mistake, not just anything old-fashioned. A typewriter in a modern office is an anachronism only if the setting is meant to feel contemporary. A character in a Roman film checking a wristwatch is a textbook example.",
+  "exampleCorrect": "The wristwatch glimpsed in the gladiator scene is a notorious anachronism that survives in the film's final cut.",
+  "exampleMisused": "He called his uncle's habit of writing checks a quaint anachronism, though paying with a check isn't out of its time period so much as out of fashion."
+ },
+ {
+  "word": "anomaly",
+  "partOfSpeech": "noun",
+  "definition": "A deviation from the usual pattern; something that stands out as different, unexpected, or unaccounted for by an existing rule or theory.",
+  "commonMisuse": "Anomaly gets used loosely for anything weird, but it carries a more specific weight: an anomaly is unexpected against a known baseline. A one-off odd thing isn't an anomaly unless there's an established pattern it's breaking. Scientists use the word carefully; casual speech less so.",
+  "exampleCorrect": "The Mercury orbit's slight anomaly was unexplained until general relativity arrived and finally accounted for the missing arc-seconds.",
+  "exampleMisused": "She called the lukewarm review an anomaly, though it was the first review the restaurant had ever received."
+ },
+ {
+  "word": "another think coming",
+  "partOfSpeech": "idiom",
+  "definition": "The phrase tells someone bluntly that they are mistaken and should reconsider. The original full form is if you think that, you have another think coming, with think used playfully as a noun.",
+  "commonMisuse": "Most people now say another thing coming, because think as a noun sounds odd to the modern ear, and a hit Judas Priest song cemented the variant. The original wordplay rests on repeating think — you thought wrong, so here comes another think.",
+  "exampleCorrect": "If she expects me to drive four hours through this snowstorm to her cousin's party, she has another think coming.",
+  "exampleMisused": "He warned the union that if they expected a raise this quarter, they had another thing coming."
+ },
+ {
+  "word": "apprise",
+  "partOfSpeech": "verb",
+  "definition": "Apprise means to formally inform or notify someone about something they need to know. Appraise, its near-twin, means to assess the value, quality, or condition of something, as a jeweler appraises a ring.",
+  "commonMisuse": "The words look and sound similar, so writers use appraise when they mean apprise, as in 'appraise the team of the deadline.' The split: appraise sets a price or makes a judgment, apprise simply passes along news. An apprise is information; an appraise is an estimate.",
+  "exampleCorrect": "The adjuster spent two hours appraising the fire damage, then apprised the homeowners of exactly what the policy would cover.",
+  "exampleMisused": "Please appraise the team of the new deadline, and we hired a contractor to apprise the property before listing it."
+ },
+ {
+  "word": "apropos",
+  "partOfSpeech": "adjective/preposition",
+  "definition": "Both relevant and well-timed when used as an adjective, as in 'an apropos remark.' As a preposition, it means 'with regard to' or 'concerning,' as in 'apropos your question.'",
+  "commonMisuse": "Apropos is sometimes treated as a fancy way to say 'about,' as in 'apropos the meeting.' That preposition use is actually standard and appears in Merriam-Webster. The adjective sense — meaning both fitting and opportune — is a richer meaning that often gets lost when the word is used purely as decoration.",
+  "exampleCorrect": "Her apropos joke about delayed flights broke the tension just as the captain announced another hour on the tarmac.",
+  "exampleMisused": "Apropos the new dress code, the all-hands email began, using the legitimate but less colorful 'with regard to' sense."
+ },
+ {
+  "word": "Arctic",
+  "partOfSpeech": "adjective / noun",
+  "definition": "Arctic refers to the North Polar region. Antarctic refers to the South Polar region. Both contain a first C that is often unspoken.",
+  "commonMisuse": "Because the first C is easy to skip when speaking, people say and then write 'Artic' and 'Antartic'. The dropped C feels natural since the cluster is awkward, but the words come from the Greek 'arktikos', and both C's belong there.",
+  "exampleCorrect": "The expedition crossed the Arctic Circle in June, then spent the following winter studying ice cores near an Antarctic research base.",
+  "exampleMisused": "He bragged about his trip to the Antartic to photograph penguins."
+ },
+ {
+  "word": "presume",
+  "partOfSpeech": "verb",
+  "definition": "Presume means to suppose something based on probability or reasonable grounds. Assume, its close cousin, means to take something for granted with little or no evidence, sometimes close to a guess. Presume rests on evidence or principle; assume rests on a hunch.",
+  "commonMisuse": "The two are treated as interchangeable, with presume often used as a fancier assume. But they carry different weights. A detective presumes from clues; a stranger assumes from a glance. In law the accused is presumed innocent because the system has principled reason to start there.",
+  "exampleCorrect": "She assumed the porch package was hers, but after three weeks of silence the coast guard presumed the missing crew lost at sea.",
+  "exampleMisused": "Given thirty years of court records, the judge could only assume the defendant understood what he was signing."
+ },
+ {
+  "word": "ensure",
+  "partOfSpeech": "verb",
+  "definition": "Ensure means to make certain an outcome happens. Its two look-alikes differ: assure means to remove someone's doubts by telling them something positively, and insure means to arrange financial protection against loss through an insurance policy.",
+  "commonMisuse": "All three sound alike and share a sense of making things certain, so they get swapped freely. Assure always has a person on the receiving end. Ensure points at outcomes. Usage guides reserve insure for the financial sense, where premiums and policies are involved.",
+  "exampleCorrect": "The contractor assured the owners he would ensure the roof was finished before winter, and advised them to insure the house against storm damage.",
+  "exampleMisused": "We need to assure the permits are in place, so I called my agent to ensure the policy before the storm."
+ },
+ {
+  "word": "bald-faced lie",
+  "partOfSpeech": "idiom",
+  "definition": "A shameless, undisguised lie told openly and without any attempt to conceal its falseness. \"Bald-faced\" means bare-faced, unadorned, hiding nothing, like a face without a beard or mask.",
+  "commonMisuse": "Many people say \"bold-faced lie,\" hearing \"bold\" as a fitting description of a brazen liar, and possibly thinking of bold typeface. \"Bald\" and \"bold\" differ by one vowel, and \"bold\" feels more obviously connected to nerve.",
+  "exampleCorrect": "Claiming he had never met the witness was a bald-faced lie, since security cameras had recorded their lunch together.",
+  "exampleMisused": "When she said the package never arrived, that was a bold-faced lie."
+ },
+ {
+  "word": "bare",
+  "partOfSpeech": "adjective / verb",
+  "definition": "Bare means uncovered, or to uncover something. Bear is the verb meaning to carry or endure — and, separately, the animal.",
+  "commonMisuse": "The phrase is 'bear with me' — endure my delay — but it is constantly written 'bare with me,' which invites everyone to undress. If you can swap in 'be patient,' the word you want is bear.",
+  "exampleCorrect": "Bear with me while I bare the wiring behind this panel; the repair will only take a minute.",
+  "exampleMisused": "The outage notice asked clients to bare with us, an unintentionally revealing request."
+ },
+ {
+  "word": "bated breath",
+  "partOfSpeech": "idiom",
+  "definition": "Breathing that is held back or restrained in anticipation, suspense, or awe. 'Bated' is an old word, related to abate, meaning reduced or lessened.",
+  "commonMisuse": "Bated breath is constantly written as 'baited breath,' which conjures something altogether less appealing — breath that smells like fish bait. The original 'bated' simply means held in, as if you'd dialed your breathing down to a whisper. The phrase appears in Shakespeare with the older spelling intact.",
+  "exampleCorrect": "Fans watched the final putt with bated breath, the gallery so still you could hear the click of the ball against the cup.",
+  "exampleMisused": "We waited with baited breath for the test results, the email said, instead of the proper bated breath."
+ },
+ {
+  "word": "beck and call",
+  "partOfSpeech": "idiom",
+  "definition": "Always ready to respond to someone's commands. A beck is an old word for a beckoning gesture, so the phrase pairs the silent summons with the spoken one.",
+  "commonMisuse": "Because beck has dropped out of everyday English, many people hear and write beckon call instead. It sounds plausible but it's an eggcorn. The original is beck and call, two separate ways a person might summon you.",
+  "exampleCorrect": "The new assistant was at the senator's beck and call from six in the morning until well after midnight.",
+  "exampleMisused": "She refused to be at her boss's beckon call on weekends, no matter how many emails he flagged urgent."
+ },
+ {
+  "word": "begs the question",
+  "partOfSpeech": "idiom",
+  "definition": "In logic, to argue in a circle by assuming as true the very point that is supposed to be proven, treating the conclusion as already settled within the premises.",
+  "commonMisuse": "It is now widely used to mean 'raises the question' or 'invites the question,' as in a fact that prompts an obvious follow-up. Traditionally it names a specific logical fallacy, not the mere prompting of a new question.",
+  "exampleCorrect": "Arguing that the policy is fair because just laws are always fair simply begs the question.",
+  "exampleMisused": "The company's sudden profit jump begs the question of how they managed it so quickly."
+ },
+ {
+  "word": "bemused",
+  "partOfSpeech": "adjective",
+  "definition": "Puzzled, bewildered, or lost in thought; left in a kind of mental fog rather than entertained.",
+  "commonMisuse": "Frequently used to mean mildly amused, presumably by association with amused itself. MW now lists the amused sense as established, but plenty of editors still flag it, and the older 'bewildered' sense is what careful writers reach for when accuracy matters.",
+  "exampleCorrect": "He stood bemused at the kiosk, trying to work out which of the twelve identical-looking tickets actually got him to the right platform.",
+  "exampleMisused": "She watched her toddler argue with the vacuum cleaner with a kind of bemused smile, halfway between laughing and recording it."
+ },
+ {
+  "word": "besides",
+  "partOfSpeech": "preposition / adverb",
+  "definition": "Besides means in addition to or apart from, and as an adverb it can mean moreover or anyway. Beside, without the final s, means next to or at the side of, describing physical or figurative position. A single s changes the meaning entirely.",
+  "commonMisuse": "Writers drop the s when they need it and add it when they shouldn't, because the words look nearly identical. 'Beside biking, he walked' should be besides; 'besides her sister' implies another sister nearby. If you mean physical position, use beside; if you mean 'in addition,' use besides.",
+  "exampleCorrect": "She sat beside her grandmother on the porch swing, and besides the view, there was nothing to do but watch the fireflies.",
+  "exampleMisused": "He parked his bike beside the entrance and said that beside biking, he also walked everywhere."
+ },
+ {
+  "word": "between you and me",
+  "partOfSpeech": "idiom",
+  "definition": "A phrase signaling that what follows is meant to stay confidential. Grammatically, me is correct because both pronouns are objects of the preposition between.",
+  "commonMisuse": "Many speakers say between you and I, thinking it sounds more polished. It is a classic hypercorrection. Prepositions take object pronouns, and you would never say between I and the wall, so between you and I doesn't survive the same swap.",
+  "exampleCorrect": "Between you and me, the new manager has no idea what half the acronyms in our reports actually stand for.",
+  "exampleMisused": "Between you and I, the wedding cake came from the grocery store down the block, not the bakery she claimed."
+ },
+ {
+  "word": "lend",
+  "partOfSpeech": "verb",
+  "definition": "Lend means to give something temporarily, with the understanding it will be returned. Borrow means to take something temporarily under that same understanding. The lender hands over; the borrower receives.",
+  "commonMisuse": "The two run in opposite directions but get swapped in speech, producing 'borrow you a pencil' for 'lend you a pencil.' Whoever ends up holding the item is borrowing; whoever provides it is lending. Note that lend is still required for figurative uses like lend a hand or lend an ear.",
+  "exampleCorrect": "She had to borrow a black dress for the funeral, then offered to lend her own umbrella to a guest caught in the rain.",
+  "exampleMisused": "He offered to borrow his neighbor a ladder, and she asked her brother to loan her his ear for a moment."
+ },
+ {
+  "word": "bring",
+  "partOfSpeech": "verb",
+  "definition": "Bring describes motion toward the speaker or point of focus; take describes motion away from it. You bring something here; you take something there.",
+  "commonMisuse": "People say 'I'll bring it to the office' when heading there from elsewhere — that's take. The test is direction: toward you is bring, away from you is take. When the reference point is genuinely unclear, either is fine.",
+  "exampleCorrect": "Bring your draft to my desk, and take the signed copy down to records on your way out.",
+  "exampleMisused": "She offered to bring the documents over to the client's office, when carrying them away from her own desk is to take them."
+ },
+ {
+  "word": "butt of the joke",
+  "partOfSpeech": "idiom",
+  "definition": "The person or thing that a joke is aimed at and made to look foolish; the target of mockery. Here \"butt\" means a target, as in an archery butt.",
+  "commonMisuse": "Some people say \"bud of the joke,\" perhaps softening a word that sounds crude, or simply mishearing the final consonant. \"Bud\" sounds gentler and vaguely friendly, but it erases the original meaning of \"butt\" as something aimed at.",
+  "exampleCorrect": "After tripping on the red carpet, the actor spent the rest of awards season as the butt of every late-night monologue.",
+  "exampleMisused": "Poor guy, he's always the bud of the joke at family gatherings."
+ },
+ {
+  "word": "by and large",
+  "partOfSpeech": "adverb",
+  "definition": "Generally speaking, on the whole, considering everything. It's a hedging phrase used to flag that what follows is broadly true even if there are exceptions.",
+  "commonMisuse": "The phrase comes from sailing. By meant into the wind and large meant with the wind, so to handle a ship by and large was to manage it in any conditions. Few users today know the nautical roots, but the modern sense of generally has held steady.",
+  "exampleCorrect": "By and large, the renovation went smoothly, though the electrician quit halfway through and took the keys with him.",
+  "exampleMisused": "He claimed his predictions were accurate buy and large, missing both the spelling and the original meaning."
+ },
+ {
+  "word": "cachet",
+  "partOfSpeech": "noun",
+  "definition": "Prestige, distinction, or a mark of social status. Pronounced ka-SHAY, it suggests the special standing that a name, brand, or association lends to something.",
+  "commonMisuse": "Writers reach for 'cache' (a hidden store of supplies, or computer memory, pronounced 'cash') because the two look almost identical. 'Cachet' is the fancier word, so the simpler-looking 'cache' gets drafted in by mistake when prestige is meant.",
+  "exampleCorrect": "An Ivy League degree still carries a certain cachet with older partners at the firm, even when newer hires question its real value.",
+  "exampleMisused": "Living in that neighborhood gives you instant cache among your coworkers."
+ },
+ {
+  "word": "canon",
+  "partOfSpeech": "noun",
+  "definition": "A canon is an accepted body of works, rules, or principles, such as a literary canon or church law. A cannon is a large, heavy artillery gun.",
+  "commonMisuse": "The extra N is the whole problem. People write 'cannon' for the body-of-works meaning, picturing the weapon, when a single N is correct. The fan-culture sense ('that detail is canon') is especially prone to the doubled-N error.",
+  "exampleCorrect": "That novel finally entered the literary canon decades after critics dismissed it, much as the old fort's cannon became a museum piece.",
+  "exampleMisused": "Fans argued for hours about whether the deleted scene counts as cannon."
+ },
+ {
+  "word": "canvass",
+  "partOfSpeech": "verb",
+  "definition": "Canvass, with two S's, means to solicit votes, opinions, or sales, or to examine thoroughly. Canvas, with one S, is a heavy woven cloth used for sails, tents, and paintings.",
+  "commonMisuse": "Because the painting word is far more familiar, people write 'canvas the neighborhood' for door-to-door campaigning. The action verb needs the second S; the single-S 'canvas' is only ever the fabric or the painting surface.",
+  "exampleCorrect": "Volunteers spread out to canvass the district while an artist nearby stretched a fresh canvas across her easel.",
+  "exampleMisused": "The campaign sent students to canvas every dorm before the election."
+ },
+ {
+  "word": "capitol",
+  "partOfSpeech": "noun",
+  "definition": "A capitol is the specific building where a legislature meets. Capital, its homophone, is a city that serves as a seat of government, accumulated wealth, or an uppercase letter.",
+  "commonMisuse": "People spell every meaning 'capital', or worse, write 'capitol' for the city. The building sense is the narrow exception: 'capitol' with an O refers only to the structure. A handy hint is the O in the building's dome.",
+  "exampleCorrect": "We toured the marble capitol building, then drove across the capital to see the offices where the city's venture capital flows.",
+  "exampleMisused": "Tourists flock to the state capitol of Texas, the city of Austin."
+ },
+ {
+  "word": "case in point",
+  "partOfSpeech": "idiom",
+  "definition": "An example that perfectly illustrates the argument just made. The phrase introduces or follows evidence that supports a general claim, pointing to a particular instance as proof.",
+  "commonMisuse": "Case in point is sometimes written as 'case and point,' as if joining two equal terms. The original means an instance that is on point — relevant to the discussion. Swapping in 'and' breaks the logic, even though the result still sounds plausible when read aloud quickly.",
+  "exampleCorrect": "Many small bakeries have folded since the chain opened — case in point, the family-run place on Maple Street that closed last month.",
+  "exampleMisused": "Public transit is underfunded, and case and point, the bus I rode this morning broke down twice, the blogger wrote, instead of case in point."
+ },
+ {
+  "word": "Cassandra",
+  "partOfSpeech": "noun",
+  "definition": "A person who issues accurate warnings of coming misfortune that others refuse to believe or act upon, so that the true prophecy is ignored until disaster confirms it.",
+  "commonMisuse": "It is sometimes used loosely to mean any pessimist or doom-monger. The key element from the myth is that Cassandra's predictions are correct yet disbelieved, not merely gloomy.",
+  "exampleCorrect": "The lone analyst who warned of the housing crash was a Cassandra, dismissed by the board until markets collapsed.",
+  "exampleMisused": "Stop being such a Cassandra, she told her friend, who simply doubted the picnic weather would hold."
+ },
+ {
+  "word": "Catch-22",
+  "partOfSpeech": "noun",
+  "definition": "A no-win predicament in which the only solution is blocked by a rule or condition that is itself built into the problem, creating an inescapable, self-defeating loop.",
+  "commonMisuse": "It is loosely used for any dilemma or frustrating situation. In its original sense, from Joseph Heller's novel, a Catch-22 specifically involves a contradictory rule that makes escape logically impossible.",
+  "exampleCorrect": "You need experience to get the job, but you can only get experience by working the job, a perfect Catch-22.",
+  "exampleMisused": "He grumbled that having to choose between two great dinner spots was a real Catch-22."
+ },
+ {
+  "word": "censure",
+  "partOfSpeech": "verb",
+  "definition": "Censure means to formally express disapproval of someone, typically through an official statement or vote. Censor, its near-twin, means to examine material and remove or suppress objectionable parts. One rebukes a person; the other cuts content.",
+  "commonMisuse": "The words look alike and both suggest official disapproval, so writers swap them, turning a vote of condemnation into editorial suppression. A memory aid: censure rhymes with pressure and puts pressure on a person, while censor takes scissors to a script.",
+  "exampleCorrect": "After the network chose to censor the monologue's sharpest lines, the board voted to censure the producer who had approved them.",
+  "exampleMisused": "The Senate voted to censor the congressman, and executives decided to censure several lines from the broadcast."
+ },
+ {
+  "word": "chaise longue",
+  "partOfSpeech": "noun",
+  "definition": "A long, low chair with an extended seat designed to support outstretched legs. The French name literally means 'long chair,' which captures the piece of furniture perfectly.",
+  "commonMisuse": "American English has widely transformed chaise longue into 'chaise lounge,' which makes intuitive sense — you lounge on it. Some dictionaries now list chaise lounge as an accepted variant, but the original French chaise longue ('long chair') is the historically correct form and still preferred in design and furniture writing.",
+  "exampleCorrect": "She stretched out on the chaise longue beside the pool, novel open across her lap, and was asleep within ten minutes.",
+  "exampleMisused": "We need a new chaise lounge for the sunroom, the catalog ad read, using the Americanized spelling instead of chaise longue."
+ },
+ {
+  "word": "chalk it up",
+  "partOfSpeech": "idiom",
+  "definition": "To attribute or credit something to a particular cause or explanation, often a forgivable one. The image comes from tallying scores or debts in chalk on a board.",
+  "commonMisuse": "Some people say \"chock it up,\" confusing it with the unrelated word in \"chock-full.\" Because \"chalk\" and \"chock\" sound alike and neither feels self-explanatory in its idiom, the two phrases swap pieces and reinforce each other's errors.",
+  "exampleCorrect": "When the flight was delayed a third time, we just chalked it up to bad luck and ordered another round at the gate bar.",
+  "exampleMisused": "He forgot my birthday again, but I chock it up to him being busy."
+ },
+ {
+  "word": "champing at the bit",
+  "partOfSpeech": "idiom",
+  "definition": "Eagerly impatient to start or do something. The image is of a restless horse biting and chewing on the metal bit in its mouth, unable to wait for the rider's signal.",
+  "commonMisuse": "Champing at the bit has been widely replaced in casual speech by 'chomping at the bit,' and Merriam-Webster now accepts both. 'Champ' is an older verb for noisy chewing, less familiar today than 'chomp,' so the substitution spread naturally. Traditionalists still favor champing, but neither form is wrong.",
+  "exampleCorrect": "The interns were champing at the bit to leave the orientation slides behind and finally start working on real cases.",
+  "exampleMisused": "He was chomping at the bit to launch the redesign, the press release noted, using the now-accepted modern variant."
+ },
+ {
+  "word": "chock-full",
+  "partOfSpeech": "adjective",
+  "definition": "Filled completely, packed as tightly as possible, leaving no spare room. \"Chock\" suggests something wedged or jammed solidly into place, the same sense found in \"chock-a-block.\"",
+  "commonMisuse": "Many people write \"chalk full,\" since \"chalk\" is a familiar word and \"chock\" is not. The two are near-homophones, and \"chalk\" carries no obvious meaning here, so it survives only as a sound the writer trusts without examining.",
+  "exampleCorrect": "Her grandmother's pantry was chock-full of home-canned tomatoes, jars stacked three deep on every shelf.",
+  "exampleMisused": "The new orientation packet is chalk full of useful information."
+ },
+ {
+  "word": "chronic",
+  "partOfSpeech": "adjective",
+  "definition": "Lasting a long time or recurring repeatedly. From Greek chronos, time. In medicine, chronic is the opposite of acute and refers to duration, not severity.",
+  "commonMisuse": "Chronic is often used as if it meant severe or intense, so a sharp short-lived pain gets called chronic. The word actually describes how long something lasts. A mild cough that persists for years is chronic; a stabbing pain that vanishes in an hour is not.",
+  "exampleCorrect": "Her chronic back pain had flared and faded for nearly two decades before any doctor traced it to a childhood fall.",
+  "exampleMisused": "He clutched his ankle after the awkward landing and groaned about the chronic pain shooting up his leg."
+ },
+ {
+  "word": "complement",
+  "partOfSpeech": "noun / verb",
+  "definition": "Complement means something that completes another thing or pairs well with it, and as a verb, to make whole. Compliment means an expression of praise or admiration, and as a verb, to offer such praise.",
+  "commonMisuse": "The words sound identical and share the Latin root complere, so writers swap the spellings. The trick: complement with an e completes; compliment with an i is what you say when you like something. If nobody is being praised, you almost certainly want complement.",
+  "exampleCorrect": "A crisp Riesling complements the smoked trout, and the visiting chef paid the kitchen a real compliment by ordering a second plate.",
+  "exampleMisused": "She stopped by to complement my new haircut, and the sage really complimented the roasted squash."
+ },
+ {
+  "word": "comprise",
+  "partOfSpeech": "verb",
+  "definition": "Comprise means to consist of or contain: the whole comprises its parts. Compose works the other way: the parts compose the whole. The direction of the relationship is the key difference.",
+  "commonMisuse": "The big slip is 'is comprised of,' a passive construction strict usage guides still criticize. Traditionally the whole simply comprises its parts, with no 'of,' or the whole is composed of its parts. So write 'the country comprises fifty states' or 'fifty states compose the country.'",
+  "exampleCorrect": "Fifty states compose the union, and the new anthology comprises forty stories drawn from across the Pacific Rim.",
+  "exampleMisused": "The committee is comprised of three faculty members, two students, and one alumna from the class of 1998."
+ },
+ {
+  "word": "compound",
+  "partOfSpeech": "verb",
+  "definition": "To combine elements into a whole, or, in another common sense, to make something worse by adding to it. A bad decision can be compounded by a worse follow-up.",
+  "commonMisuse": "The 'make worse' sense of compound is less familiar than the 'combine' sense, and writers sometimes miss it. When a judge says a defendant's lies 'compound the original offense,' she means they pile onto it and make matters worse — not that they merge with it into something new.",
+  "exampleCorrect": "Skipping the deadline only compounded the team's problems, since the contract penalties now triggered automatically.",
+  "exampleMisused": "The pharmacist will compound the two side effects, the patient wrote, where she meant the symptoms would worsen each other."
+ },
+ {
+  "word": "continual",
+  "partOfSpeech": "adjective",
+  "definition": "Continual means happening repeatedly over time, with brief breaks in between. Continuous means unbroken in time or space, with no interruption at all. One recurs; the other never pauses.",
+  "commonMisuse": "Writers use the two interchangeably because they look alike. The prescriptive rule reserves continual for recurring events and continuous for unbroken ones, though Merriam-Webster notes continual has meant 'uninterrupted' since the 14th century. Still, when an unbroken stretch really matters, continuous is the safer pick.",
+  "exampleCorrect": "The continual interruptions from the loading dock were almost worse than the continuous hum of the air handler overhead.",
+  "exampleMisused": "A continual stream of water poured from the broken pipe, and continuous power outages plagued the block all summer."
+ },
+ {
+  "word": "could have",
+  "partOfSpeech": "modal phrase",
+  "definition": "These modal phrases describe the unrealized past: could have for a missed possibility, should have for an unmet obligation, would have for a hypothetical outcome. Each contracts to 've — could've, should've, would've.",
+  "commonMisuse": "Spoken quickly, could've sounds exactly like could of, so could of, should of, and would of show up everywhere in writing. But of is a preposition and cannot follow a modal. The missing word is always the auxiliary verb have, which never collapses into of.",
+  "exampleCorrect": "We could have caught the early train, and we should have, because we would have reached the airport with an hour to spare.",
+  "exampleMisused": "I would of called, but my phone died at the airport, the message read."
+ },
+ {
+  "word": "couldn't care less",
+  "partOfSpeech": "idiom",
+  "definition": "Couldn't care less expresses total indifference — a person caring so little that no lower point is possible. It is the logically sound original form of the phrase.",
+  "commonMisuse": "Many American speakers say could care less, which literally reverses the sense, since being able to care less means some caring remains. The negative does the real work: couldn't care less is the form that actually conveys not caring at all.",
+  "exampleCorrect": "When the gossip columnist raised the old feud, the actress shrugged and said she couldn't care less what anyone wrote.",
+  "exampleMisused": "He insisted he could care less about the playoff results, then asked for the final score twice."
+ },
+ {
+  "word": "coup de grâce",
+  "partOfSpeech": "noun",
+  "definition": "A final blow that ends the suffering of a mortally wounded being; more broadly, a decisive act that finishes off something already failing. From French, 'stroke of mercy.'",
+  "commonMisuse": "It is often used merely for any impressive finishing touch or flourish. The literal sense is a mercy killing, so it properly applies to a decisive stroke ending something already wounded or doomed.",
+  "exampleCorrect": "The knight delivered the coup de grace to the mortally injured stag, ending its suffering swiftly.",
+  "exampleMisused": "The chef called the sprig of mint atop the dessert the coup de grace of the plate."
+ },
+ {
+  "word": "credulous",
+  "partOfSpeech": "adjective",
+  "definition": "Credulous means too willing to believe things without evidence, describing a gullible person. Credible, often confused with it, means worthy of being believed, describing a claim or source with enough plausibility to accept. One believes too easily; the other is believable.",
+  "commonMisuse": "Both stem from the Latin credere, 'to believe,' so writers conflate them, but they sit on opposite sides of the act of belief. Credible describes the thing being weighed; credulous describes the listener doing the weighing. A credulous reader will swallow a credible-sounding hoax whole.",
+  "exampleCorrect": "The detective needed a credible alibi, but the con artist preferred small towns full of credulous listeners who had never heard his pitch.",
+  "exampleMisused": "The conspiracy theorist had a wildly credible audience, and the witness's account was credulous enough to convince the jury."
+ },
+ {
+  "word": "criterion",
+  "partOfSpeech": "noun",
+  "definition": "A criterion is a single standard or test by which something is judged. Criteria is the plural, meaning two or more such standards.",
+  "commonMisuse": "'Criteria' sounds smooth and familiar, so people treat it as singular: 'the main criteria is cost' or 'a criteria'. Because the singular 'criterion' is rarely heard, it sounds wrong, even though it is the correct form for one standard.",
+  "exampleCorrect": "Cost was just one criterion; the committee weighed several other criteria, including durability and ease of repair, before deciding.",
+  "exampleMisused": "The most important criteria for the job is years of experience."
+ },
+ {
+  "word": "decimate",
+  "partOfSpeech": "verb",
+  "definition": "Originally, to kill one in every ten as a Roman military punishment; in modern usage, to destroy or severely reduce a large portion of something.",
+  "commonMisuse": "Purists still object to decimate meaning 'wipe out almost entirely,' insisting on the literal one-in-ten Roman sense. MW notes the broader sense has been standard since the 17th century and treats it as fully acceptable. Most modern readers hear it as devastate, full stop.",
+  "exampleCorrect": "After the mutiny, the general decimated the rebellious cohort, executing every tenth soldier as a warning to the rest.",
+  "exampleMisused": "A late freeze decimated the citrus crop, and the orchards are barely going to clear costs this season."
+ },
+ {
+  "word": "deep-seated",
+  "partOfSpeech": "adjective",
+  "definition": "Firmly established or planted far below the surface, especially of feelings, beliefs, or problems that have settled into the foundations of something and resist easy change.",
+  "commonMisuse": "Deep-seated often gets typed as 'deep-seeded,' as if a deep root had been planted. The original image is different: something is seated — set down, lodged — at a great depth. Both versions paint a picture of permanence, but the dictionary form is deep-seated.",
+  "exampleCorrect": "Her deep-seated mistrust of large banks traced back to her grandfather's losses in the 1930s.",
+  "exampleMisused": "The committee diagnosed a deep-seeded resentment within the department, where deep-seated was the standard form."
+ },
+ {
+  "word": "defuse",
+  "partOfSpeech": "verb",
+  "definition": "Defuse means to remove the fuse from an explosive, or more broadly to calm a tense situation. Diffuse means to spread or scatter widely, and as an adjective, spread out or unfocused. One disarms; the other disperses.",
+  "commonMisuse": "The words look and sound close, so writers swap them, often using diffuse where defuse belongs. The mnemonic: defuse contains fuse, which is what you pull out, whether from a bomb or an argument. If nothing is being calmed or disarmed, you want diffuse.",
+  "exampleCorrect": "The skylight diffused the noon sun into a soft glow while the negotiator worked the phones to defuse the standoff downstairs.",
+  "exampleMisused": "The mediator managed to diffuse the conflict, and a faint lavender scent defused through the waiting room."
+ },
+ {
+  "word": "demur",
+  "partOfSpeech": "verb",
+  "definition": "Demur is a verb meaning to object politely, hesitate, or raise an objection. Demure is an adjective meaning reserved, modest, or quiet in manner, sometimes with a hint of put-on shyness.",
+  "commonMisuse": "One letter and one part of speech apart, they get switched constantly. He demurred means he objected or held back; she was demure means she was modest. Writers drop or add the final e, often turning the adjective into a verb or vice versa without noticing.",
+  "exampleCorrect": "Asked to chair the committee, the demure new hire demurred, quietly citing the three boards she was already juggling.",
+  "exampleMisused": "The witness was demur on the stand, the journalist wrote, meaning reserved."
+ },
+ {
+  "word": "dilemma",
+  "partOfSpeech": "noun",
+  "definition": "A situation requiring a choice between two options, traditionally two that are both unwelcome; in broader modern use, any difficult problem or hard decision.",
+  "commonMisuse": "The word originally named a choice specifically between two equally unattractive alternatives. The broader use for any tough problem or decision is now well established and accepted, though the historical sense is more precise.",
+  "exampleCorrect": "She faced a genuine dilemma: betray her friend's secret to the police, or stay silent and risk arrest herself.",
+  "exampleMisused": "He described picking which of three exciting vacations to take as a real dilemma."
+ },
+ {
+  "word": "discomfit",
+  "partOfSpeech": "verb",
+  "definition": "Historically, to thwart, defeat, or completely frustrate someone's plans. In modern usage it more often means to embarrass or unsettle, since the older sense has largely faded.",
+  "commonMisuse": "Discomfit and discomfort have drifted together. Originally, discomfit meant to defeat in battle or foil a scheme; discomfort meant to make uneasy. Merriam-Webster now treats their meanings as overlapping, so the older thwart sense survives mostly in formal writing.",
+  "exampleCorrect": "Wellington's cavalry charge discomfited the French line, sending entire battalions into a retreat they never reformed.",
+  "exampleMisused": "The personal questions at dinner discomfited her, and she excused herself to take a long walk around the block."
+ },
+ {
+  "word": "discrete",
+  "partOfSpeech": "adjective",
+  "definition": "Discrete means separate and individually distinct, existing as unconnected units. Discreet, its homophone, means careful and tactful, especially about keeping private matters private. One means standing apart; the other shows good judgment.",
+  "commonMisuse": "The two share the Latin root discretus and differ by only the placement of a letter, so writers pick the wrong spelling. The trick: the two e's in discreet are tucked together like a secret, while in discrete the t keeps them apart. For tact, use discreet.",
+  "exampleCorrect": "Her assistant was famously discreet, even after the report split the staff into four discrete pay bands that everyone wanted to discuss.",
+  "exampleMisused": "The study broke the population into four discreet age groups, so please be discrete about the surprise party."
+ },
+ {
+  "word": "disinterested",
+  "partOfSpeech": "adjective",
+  "definition": "Disinterested means free from personal bias or financial stake; impartial. Uninterested means not interested; lacking curiosity or engagement. One is unbiased; the other is simply bored.",
+  "commonMisuse": "Disinterested is widely used to mean 'not interested,' which is properly uninterested. The confusion is deep-rooted because the two words actually swapped meanings in their history. Merriam-Webster now lists the 'not interested' sense, but careful writers keep disinterested for impartiality, where no other word does the job.",
+  "exampleCorrect": "The estate needed a disinterested trustee, not a relative who was uninterested in the paperwork but very interested in the lake house.",
+  "exampleMisused": "Halfway through the lecture the students looked completely disinterested, scrolling on their phones under the desks."
+ },
+ {
+  "word": "dog-eat-dog",
+  "partOfSpeech": "adjective",
+  "definition": "Marked by ruthless competition, where individuals are willing to harm one another to get ahead. It describes environments — industries, schools, neighborhoods — where survival comes before solidarity.",
+  "commonMisuse": "The phrase is sometimes heard as 'doggy-dog,' a mishearing that turns brutal competition into something almost cuddly. The original captures dogs literally devouring one another — a vivid image of cutthroat rivalry. 'Doggy-dog world' makes for a strange picture once you stop and look at it.",
+  "exampleCorrect": "She warned her daughter that the talent agency was a dog-eat-dog operation where contracts changed hands overnight.",
+  "exampleMisused": "It's a doggy-dog world out there in pro sales, the manager told the new hires, instead of dog-eat-dog."
+ },
+ {
+  "word": "draconian",
+  "partOfSpeech": "adjective",
+  "definition": "Exceedingly harsh, severe, or cruel, especially in describing laws, rules, or punishments that impose penalties far out of proportion to the offenses they address.",
+  "commonMisuse": "It is often used loosely to mean merely strict or inconvenient. Draconian, named for the Athenian lawgiver Draco whose code punished minor crimes with death, properly implies extreme and disproportionate severity.",
+  "exampleCorrect": "Under the regime's draconian decree, even minor theft was punishable by years of hard labor.",
+  "exampleMisused": "Students grumbled that the teacher's draconian rule banned phones during the fifteen-minute quiz."
+ },
+ {
+  "word": "déjà vu",
+  "partOfSpeech": "noun",
+  "definition": "The eerie sensation of having already experienced a present moment, even though it is genuinely happening for the first time. From the French for 'already seen.'",
+  "commonMisuse": "It is often used loosely for anything that simply repeats or feels familiar. Properly, deja vu names a specific illusory feeling that a brand-new experience has happened before, not an actual repetition.",
+  "exampleCorrect": "Stepping into the unfamiliar cafe, she felt a sudden chill of deja vu, certain she had stood there before.",
+  "exampleMisused": "Watching the team lose again last night gave me total deja vu of last week's identical loss."
+ },
+ {
+  "word": "i.e.",
+  "partOfSpeech": "abbreviation",
+  "definition": "I.e. is short for the Latin id est, meaning 'that is,' and introduces a restatement or clarification of the exact same idea. E.g., often confused with it, is short for exempli gratia, meaning 'for example,' and introduces illustrations from a larger set.",
+  "commonMisuse": "Writers use i.e. and e.g. interchangeably because both are obscure Latin abbreviations tucked inside parentheses. But they aren't synonyms: e.g. offers examples, i.e. restates precisely. A quick trick: e.g. equals 'example given,' and i.e. equals 'in essence.'",
+  "exampleCorrect": "Bring a hardy houseplant, e.g., a pothos or a snake plant, and take the red-eye, i.e., the overnight flight that lands at sunrise.",
+  "exampleMisused": "Order a comfort food, i.e., mac and cheese or meatloaf, and water the one plant we own, e.g., the snake plant."
+ },
+ {
+  "word": "anxious",
+  "partOfSpeech": "adjective",
+  "definition": "Anxious means worried or uneasy about something uncertain. Eager, often used in its place, means keenly enthusiastic, full of positive anticipation. Anxious carries an edge of dread, even when it signals strong wanting; eager is purely upbeat.",
+  "commonMisuse": "People say anxious for eager, as in \"anxious to meet your parents,\" slipping worry into pure enthusiasm. The eager sense of anxious has existed since the 1600s, so it isn't strictly an error, but anxious still drags along a tinge of dread that eager simply does not.",
+  "exampleCorrect": "The interns were eager to start the new project but anxious about whether their inexperience would show in front of the senior partners.",
+  "exampleMisused": "I'm so anxious to try the new ramen place that just opened around the corner from the office."
+ },
+ {
+  "word": "effete",
+  "partOfSpeech": "adjective",
+  "definition": "Originally, worn out or exhausted, especially from overuse or age; in modern use, often weakened by over-refinement, decadent, or affected.",
+  "commonMisuse": "Often used as a near-synonym for effeminate, but the older and more precise meaning is exhausted or worn out. MW now lists the effeminacy and snobbery senses as standard, so the word lives uneasily across all three meanings; careful writers spell out which one they mean.",
+  "exampleCorrect": "By the end of the dynasty, the court had grown effete, more interested in court ritual than the famine spreading across the provinces.",
+  "exampleMisused": "He dismissed the wine critics as an effete bunch sniffing at glasses in a sunlit Brooklyn loft."
+ },
+ {
+  "word": "eke out",
+  "partOfSpeech": "verb phrase",
+  "definition": "To supplement a meager supply or make scarce resources stretch a little further. You eke out a living, eke out a harvest, or eke out enough flour to finish the bread.",
+  "commonMisuse": "Eke out is often used loosely to mean 'win narrowly' — a team ekes out a victory by a single point. That extended sense has caught on, but the older meaning is about stretching scant resources. A struggling farmer ekes out a living; a basketball team ekes out a win in the looser modern usage.",
+  "exampleCorrect": "During the long winter, the shepherds had to eke out their salt rations until the spring caravan finally arrived.",
+  "exampleMisused": "The Knicks managed to eke out a win in overtime, the recap said, using the extended modern sense of 'win narrowly.'"
+ },
+ {
+  "word": "elicit",
+  "partOfSpeech": "verb",
+  "definition": "Elicit is a verb meaning to draw out or bring forth a response, reaction, or hidden quality through skillful prompting. Illicit is an adjective meaning forbidden by law or accepted moral standards.",
+  "commonMisuse": "The two are near-homophones, so writers reach for illicit when they need the verb, producing \"illicit a response,\" or write \"an elicit affair\" for a forbidden one. One pulls something out; the other describes something banned. They never overlap.",
+  "exampleCorrect": "The detective's gentle questioning managed to elicit a full confession about the illicit shipments crossing the border each night.",
+  "exampleMisused": "The therapist tried to illicit some honest emotion from her client during their third session."
+ },
+ {
+  "word": "emigrate",
+  "partOfSpeech": "verb",
+  "definition": "Emigrate and immigrate describe the same move from opposite vantage points. You emigrate from a country, leaving it; you immigrate to a country, arriving to settle there permanently. The focus is departure versus arrival.",
+  "commonMisuse": "Because both words name a single relocation, writers use either one for both directions, often pairing the wrong preposition. A handy cue: emigrate starts with e for exit, immigrate starts with i for into.",
+  "exampleCorrect": "Her great-grandparents emigrated from a village outside Naples and immigrated to a tenement block in Brooklyn before the First World War.",
+  "exampleMisused": "Thousands of families immigrate the country every year, hoping to start over somewhere safer."
+ },
+ {
+  "word": "immanent",
+  "partOfSpeech": "adjective",
+  "definition": "Immanent means existing within or inherent in something, a word mostly reserved for philosophy and theology. Its two look-alikes differ sharply: eminent means distinguished or notably famous in rank or achievement, and imminent means about to happen at any moment.",
+  "commonMisuse": "The three look nearly identical, so writers blur them, especially turning eminent into a synonym for imminent. An eminent scholar is celebrated; an imminent storm is bearing down; an immanent God dwells within creation. Three look-alikes, three separate worlds.",
+  "exampleCorrect": "The eminent theologian argued that an immanent divinity pervades nature, even as forecasters warned an imminent blizzard would strand the conference.",
+  "exampleMisused": "Forecasters warned that an eminent hurricane would make landfall by Thursday night."
+ },
+ {
+  "word": "enervate",
+  "partOfSpeech": "verb",
+  "definition": "To drain something of energy, strength, or vitality, leaving it weakened and depleted rather than invigorated.",
+  "commonMisuse": "Constantly used to mean energize, presumably because the two words start the same way and sound vaguely electric. The real sense is the opposite: an enervating heat wave saps you, it doesn't pump you up. MW devotes a whole usage note to the mix-up.",
+  "exampleCorrect": "The August humidity enervated the entire road crew by noon, slowing the paving job to a crawl.",
+  "exampleMisused": "A cold shower and a strong espresso usually enervate me enough to power through the morning meetings."
+ },
+ {
+  "word": "enormity",
+  "partOfSpeech": "noun",
+  "definition": "Traditionally, the quality of being monstrously evil or morally outrageous; also, more recently, sheer largeness of scale.",
+  "commonMisuse": "Often used as a straight synonym for enormousness, which strips out the moral weight the word historically carried. MW now accepts both senses as standard, but careful writers still reserve enormity for things like atrocities, where the size and the horror are inseparable.",
+  "exampleCorrect": "It took the tribunal years to reckon with the full enormity of what had happened in the camps during those final winters.",
+  "exampleMisused": "Standing at the rim, you really start to grasp the enormity of the canyon and how small the river looks from up here."
+ },
+ {
+  "word": "envelop",
+  "partOfSpeech": "verb",
+  "definition": "Envelop is a verb meaning to wrap, surround, or enclose completely, stressed en-VEL-op. Envelope is a noun, the flat paper container for a letter or any enclosing cover, stressed EN-vuh-lope.",
+  "commonMisuse": "The words differ by one silent letter, so writers tack the noun's final e onto the verb, writing \"the fog envelopes the harbor.\" The trailing e marks the paper container; drop it whenever you mean the action of wrapping something up.",
+  "exampleCorrect": "She slid the letter into an envelope just as the coastal fog began to envelop the lighthouse beyond her window.",
+  "exampleMisused": "She watched the smoke envelope the building before the first fire truck arrived."
+ },
+ {
+  "word": "envy",
+  "partOfSpeech": "noun",
+  "definition": "Envy is wanting something another person has. Jealousy is the fear of losing something you already have to a rival — most often in love.",
+  "commonMisuse": "The two are used interchangeably, and dictionaries note the overlap. The cleaner line: you envy a colleague's promotion; you feel jealousy when someone flirts with your partner.",
+  "exampleCorrect": "She felt a flash of envy at his new title, while he, watching her laugh with a stranger, was sick with jealousy.",
+  "exampleMisused": "He said he was jealous of her corner office, when wanting what someone else has is envy."
+ },
+ {
+  "word": "epicenter",
+  "partOfSpeech": "noun",
+  "definition": "In seismology, the point on the earth's surface directly above the underground focus where an earthquake originates; figuratively, the focal point of an event or activity.",
+  "commonMisuse": "It is often used simply as a more dramatic word for 'center.' Strictly, an epicenter is the surface point above an earthquake's deeper origin, so its literal sense involves a precise geological relationship.",
+  "exampleCorrect": "Seismologists located the earthquake's epicenter twelve miles offshore, directly above the rupture deep beneath the seabed.",
+  "exampleMisused": "The reporter called the downtown plaza the epicenter of the city, just meaning its busy middle."
+ },
+ {
+  "word": "epitome",
+  "partOfSpeech": "noun",
+  "definition": "A perfect or representative example of a quality or class; something that embodies the essence of a larger category in a single instance.",
+  "commonMisuse": "Often used to mean the peak or most extreme version of something. The accurate sense is 'embodiment' or 'archetype': the epitome of professionalism is the person who shows what professionalism looks like, not the most professional person who has ever lived.",
+  "exampleCorrect": "Her grandmother, who answered every letter by hand within a week, was the epitome of unhurried courtesy.",
+  "exampleMisused": "Climbing K2 in winter is the epitome of mountaineering, with conditions no other peak in the world can match."
+ },
+ {
+  "word": "espresso",
+  "partOfSpeech": "noun",
+  "definition": "Strong coffee made by forcing hot water under pressure through finely ground beans. The name is Italian, related to express, meaning made on the spot for the customer.",
+  "commonMisuse": "Many English speakers say and write expresso, presumably by analogy with express. Merriam-Webster lists expresso as a variant, but espresso is the original Italian spelling and the form preferred by coffee professionals and most careful writers.",
+  "exampleCorrect": "She ordered an espresso at the counter and drank it standing, the way she had learned in a tiny cafe in Bologna.",
+  "exampleMisused": "He pointed to the menu and asked for a double expresso, hoping it would carry him through the afternoon flight."
+ },
+ {
+  "word": "et cetera",
+  "partOfSpeech": "phrase",
+  "definition": "And other unspecified things of the same kind; and so forth, used to indicate that a list continues with similar items. From the Latin meaning 'and the rest.'",
+  "commonMisuse": "Its abbreviation 'etc.' is very often misspelled and mispronounced 'ect' or 'excetera.' The Latin begins with 'et,' meaning 'and,' so the correct abbreviation is 'etc.' with the 't' before the 'c.'",
+  "exampleCorrect": "The recipe called for the usual baking staples, flour, sugar, baking soda, et cetera, so she checked the pantry.",
+  "exampleMisused": "His shopping list ended with 'milk, eggs, ect.,' the abbreviation written with the letters reversed."
+ },
+ {
+  "word": "everyday",
+  "partOfSpeech": "adjective",
+  "definition": "Everyday, one word, is an adjective meaning ordinary or routine, used before a noun: everyday clothes, an everyday occurrence. Every day, two words, is an adverbial phrase meaning each day, telling you when something happens.",
+  "commonMisuse": "Writers collapse the phrase into the adjective, writing \"I check the mailbox everyday.\" The one-word form describes what kind of thing; the two-word form describes when. A quick test: if you can swap in \"each day,\" you need two words.",
+  "exampleCorrect": "She wore her everyday boots to the orchard every day that autumn, saving the dressier pair for the rehearsal dinner.",
+  "exampleMisused": "He swore he checked the mailbox everyday, though the unopened bills suggested otherwise."
+ },
+ {
+  "word": "exact",
+  "partOfSpeech": "verb",
+  "definition": "Exact, as a verb, means to demand and impose by force: a toll, obedience, or revenge. Extract, its near-twin, means to pull or draw something out, often with effort: a tooth, a confession, juice from a lemon.",
+  "commonMisuse": "The phrase is \"exact revenge,\" but writers swap in \"extract revenge\" because the words sound alike and revenge feels like something pulled out of a person. You don't tug revenge loose like a splinter; you demand it, the way a king exacts tribute.",
+  "exampleCorrect": "After the dentist worked an hour to extract the impacted molar, she joked that her ex-husband would have exacted less pain.",
+  "exampleMisused": "He vowed to extract revenge on the rival firm that had poached three of his senior engineers."
+ },
+ {
+  "word": "implicit",
+  "partOfSpeech": "adjective",
+  "definition": "Implicit means understood from context or implication without being directly stated. Explicit, its near-opposite, means stated openly and in full, with nothing left to be guessed at: said outright versus merely suggested.",
+  "commonMisuse": "Because the words rhyme and both concern meaning, writers swap them, calling an unspoken understanding \"explicit\" or spelled-out demands \"implicit.\" An explicit agreement is written down; an implicit one is simply taken for granted by everyone involved.",
+  "exampleCorrect": "The landlord left explicit instructions about the alarm code, but there was an implicit expectation that tenants would also shovel the walk.",
+  "exampleMisused": "Although nothing had been agreed to, there was an explicit understanding that he would handle the dishes."
+ },
+ {
+  "word": "exponential",
+  "partOfSpeech": "adjective",
+  "definition": "Describing growth whose rate is proportional to its current value, so a quantity keeps multiplying and increases ever faster, as expressed by an exponential function.",
+  "commonMisuse": "It is widely used loosely to mean simply 'very fast' or 'a lot.' Strictly, exponential describes a particular mathematical pattern of accelerating growth, not just any large or rapid increase.",
+  "exampleCorrect": "Early in the outbreak, infections showed exponential growth, doubling every three days as each case spread to several others.",
+  "exampleMisused": "She said her commute had gotten exponentially worse, meaning only that it now took ten extra minutes."
+ },
+ {
+  "word": "factoid",
+  "partOfSpeech": "noun",
+  "definition": "Originally, a piece of information that gets repeated so often it is taken as true even though it isn't; more commonly today, a small but verified fact.",
+  "commonMisuse": "Norman Mailer coined the word in 1973 to mean an invented or unverified claim that gets believed through sheer repetition, modeled on humanoid (looks like a fact, isn't one). Cable news and trivia shows then flipped it to mean any short true fact, and that newer sense now dominates.",
+  "exampleCorrect": "The biography is studded with factoids that have hardened into legend, like the story that he wrote the symphony in a single sleepless weekend.",
+  "exampleMisused": "Here's a fun factoid: the average cumulus cloud weighs more than a million pounds."
+ },
+ {
+  "word": "fall by the wayside",
+  "partOfSpeech": "idiom",
+  "definition": "To be abandoned, neglected, or left behind; to drop out before reaching a goal. The \"wayside\" is simply the edge or margin of a road, where things get left as travel continues.",
+  "commonMisuse": "People write \"fall by the waste side,\" interpreting abandoned things as wasted or discarded. \"Wayside\" is rarely used elsewhere, so the unfamiliar word gets reanalyzed into \"waste side,\" which seems to explain why the thing was given up.",
+  "exampleCorrect": "Her plan to learn Portuguese before the trip fell by the wayside once work deadlines piled up in March.",
+  "exampleMisused": "A lot of good intentions fall by the waste side once the new year ends."
+ },
+ {
+  "word": "farther",
+  "partOfSpeech": "adverb / adjective",
+  "definition": "Farther refers to physical, measurable distance. Further refers to figurative or metaphorical extent, and also means 'additional' or 'moreover.'",
+  "commonMisuse": "The two get swapped freely, and for literal distance many writers now accept either. The reliable test: if you can measure it in miles, use farther; for degree, ideas, or 'additional,' use further.",
+  "exampleCorrect": "We drove farther than we had planned, and refused to discuss the wrong turn any further.",
+  "exampleMisused": "Let's not take this argument any farther — distance has nothing to do with a disagreement."
+ },
+ {
+  "word": "Faustian bargain",
+  "partOfSpeech": "noun phrase",
+  "definition": "An agreement in which someone trades away something of profound and lasting value for immediate gain, ignoring or accepting a grave eventual cost for short-term reward.",
+  "commonMisuse": "It is often applied loosely to any compromise or unappealing deal. Strictly, a Faustian bargain echoes the legend of Faust selling his soul to the devil, surrendering something fundamental for fleeting advantage.",
+  "exampleCorrect": "The scientist made a Faustian bargain, accepting the regime's funding in exchange for silence about its abuses.",
+  "exampleMisused": "Signing a two-year phone contract for a discount felt like a Faustian bargain to her."
+ },
+ {
+  "word": "faze",
+  "partOfSpeech": "verb",
+  "definition": "Faze is a verb meaning to disturb, rattle, or knock someone off balance, most often used in the negative. Phase is a noun naming a distinct stage in a process or cycle, like the phases of the moon.",
+  "commonMisuse": "Faze is uncommon and phase is everywhere, so writers reach for the familiar spelling, producing \"nothing phases him.\" That would mean nothing puts him through a stage of development. If something doesn't rattle you, it doesn't faze you.",
+  "exampleCorrect": "The boos from the visiting fans didn't faze the rookie, even as the game entered its tense final phase.",
+  "exampleMisused": "Three nights of poor sleep didn't seem to phase her at all during the trial."
+ },
+ {
+  "word": "fewer",
+  "partOfSpeech": "adjective",
+  "definition": "Fewer refers to a smaller number of things you can count individually, like fewer cars or fewer chances. Less refers to a smaller amount of something measured in bulk, like less water or less patience.",
+  "commonMisuse": "The classic rule is fewer for countables and less for mass nouns, so 'less commuters' should be 'fewer commuters.' But the rule isn't absolute: Merriam-Webster notes less has been used with countables for a thousand years and is standard with money, time, and distance.",
+  "exampleCorrect": "The new bakery puts fewer pastries on display each morning and uses less sugar in everything, yet it still sells out by ten.",
+  "exampleMisused": "There were less commuters on the platform, and the express lane is for shoppers with less than fifteen items."
+ },
+ {
+  "word": "first come, first served",
+  "partOfSpeech": "idiom",
+  "definition": "A principle stating that people are attended to, or receive something, strictly in the order they arrive, so that earlier arrivals are dealt with before later ones.",
+  "commonMisuse": "It is often shortened to 'first come, first serve,' which drops the past-tense ending. The phrase means whoever comes first gets served first, so the verb should be 'served' rather than the bare 'serve.'",
+  "exampleCorrect": "The festival's free camping spots were strictly first come, first served, so families lined up well before dawn.",
+  "exampleMisused": "The flyer promised free tote bags on a first come, first serve basis at the store opening."
+ },
+ {
+  "word": "flair",
+  "partOfSpeech": "noun",
+  "definition": "Flair is a natural talent, instinctive style, or distinctive elegance. A flare is a sudden burst of light or flame, or an outward widening, and as a verb means to burst out or spread wider.",
+  "commonMisuse": "These are homophones, so the choice rests entirely on meaning. Writers often pick 'flare' for stylish talent ('a flare for design') because it looks like the more energetic word, while 'flair' should describe the gift, not the fire.",
+  "exampleCorrect": "She decorated the cramped apartment with real flair, then lit a flare on the balcony when the power went out.",
+  "exampleMisused": "He has a natural flare for telling stories that hold a room."
+ },
+ {
+  "word": "flout",
+  "partOfSpeech": "verb",
+  "definition": "Flout means to openly defy or treat with contempt a rule, law, or convention. Flaunt, frequently swapped for it, means to show something off in a deliberately ostentatious way, especially wealth or status. One defies; the other displays.",
+  "commonMisuse": "Writers use flaunt for flout, saying someone \"flaunts the law,\" because both verbs describe brazen, attention-grabbing behavior. But flaunting the law would mean showing it off proudly. You flaunt a new watch; you flout the speed limit driving home in it.",
+  "exampleCorrect": "He flaunted his new sports car at the reunion and flouted every parking rule on campus to leave it by the front steps.",
+  "exampleMisused": "The mayor was caught on camera flaunting the city's mask ordinance at a fundraiser downtown."
+ },
+ {
+  "word": "founder",
+  "partOfSpeech": "verb",
+  "definition": "Founder means to sink, fail, or collapse outright, from the image of a ship going down. Flounder, often confused with it, means to struggle clumsily and thrash about without making real progress. One is total failure; the other is awkward struggle.",
+  "commonMisuse": "The words are one letter apart and both signal trouble, so writers use them interchangeably. But a project that flounders is still afloat, just going badly; one that founders has collapsed for good. Think of a fish flopping versus a ship sinking.",
+  "exampleCorrect": "The new manager floundered through her first all-hands meeting, but the company didn't founder until the merger collapsed a year later.",
+  "exampleMisused": "The merger floundered last week when both boards walked away from the deal for good."
+ },
+ {
+  "word": "for all intents and purposes",
+  "partOfSpeech": "idiom",
+  "definition": "In every practical sense; effectively, even if not literally or officially. The phrase concedes that something works as if it were true, regardless of formal definitions or technicalities.",
+  "commonMisuse": "The phrase is often mangled into 'for all intensive purposes,' which sounds nearly identical when spoken quickly. The original pairs intents (aims) with purposes (objectives) — two near-synonyms reinforcing each other, a common pattern in legal English. 'Intensive purposes' makes a kind of sense but is the wrong phrase.",
+  "exampleCorrect": "By the time the courier arrived, the deal was, for all intents and purposes, already signed and announced internally.",
+  "exampleMisused": "For all intensive purposes, the meeting was over before the slides even loaded."
+ },
+ {
+  "word": "forgo",
+  "partOfSpeech": "verb",
+  "definition": "To forgo something is to do without it or give it up. To forego means to go before or precede — it survives mainly in 'foregoing' (the foregoing paragraph).",
+  "commonMisuse": "Writers add the extra 'e' and write 'forego dessert.' The two have blurred for centuries and dictionaries now tolerate it, but the lean spelling — forgo — is the one for giving something up.",
+  "exampleCorrect": "She chose to forgo the bonus, a decision the foregoing minutes had already quietly predicted.",
+  "exampleMisused": "He decided to forego his vacation this year, when choosing to do without it is to forgo it."
+ },
+ {
+  "word": "forte",
+  "partOfSpeech": "noun",
+  "definition": "A person's strong point or area of particular skill. The noun comes from French fort, meaning strong, and traditionally was pronounced as a single syllable, fort.",
+  "commonMisuse": "Most English speakers now say for-tay, borrowing the pronunciation from the unrelated Italian musical term meaning loud. Merriam-Webster treats both pronunciations as standard, though traditionalists still favor the one-syllable French version for the strong-point sense.",
+  "exampleCorrect": "Diplomacy was never her forte; she preferred problems she could solve with a calculator rather than a smile.",
+  "exampleMisused": "He insisted small talk was not his forte, pronouncing it for-tay as he edged away from the cocktail crowd."
+ },
+ {
+  "word": "fortuitous",
+  "partOfSpeech": "adjective",
+  "definition": "Happening by chance rather than by design; occurring accidentally, without implying that the accident was a happy one.",
+  "commonMisuse": "Often used to mean lucky, blending fortuitous with fortunate. MW has accepted the 'lucky chance' sense for decades, so it is hardly a hanging offense, but a strictly fortuitous event is just an accident, good or bad. The original sense is value-neutral.",
+  "exampleCorrect": "Their two cars happened to collide at the exact spot where a paramedic was filling his tank, a purely fortuitous coincidence.",
+  "exampleMisused": "Bumping into my old roommate at the gate was so fortuitous, because she ended up giving me a ride straight from the airport."
+ },
+ {
+  "word": "free rein",
+  "partOfSpeech": "noun/phrase",
+  "definition": "Unrestricted freedom to act or decide as one chooses, from the practice of letting a horse run without pulling back on its leather straps. The image is of loosened control, not regal authority.",
+  "commonMisuse": "Free rein frequently appears as 'free reign,' as if it referred to a king's unchecked rule. The original metaphor is equestrian: dropping the reins so the horse can run. Once you see the picture — a slack leather strap rather than a crown — the spelling locks into place.",
+  "exampleCorrect": "The director gave her cinematographer free rein on the desert shoot, and the resulting footage made the festival circuit.",
+  "exampleMisused": "Senior staff were given free reign over the holiday menu, the press release boasted, when free rein was correct."
+ },
+ {
+  "word": "fulsome",
+  "partOfSpeech": "adjective",
+  "definition": "Excessive to the point of being offensive or insincere, especially in flattery; also, more recently, generously abundant.",
+  "commonMisuse": "Often used as a straight compliment, as in 'fulsome praise,' meaning rich and abundant. The traditional sense is the opposite, suggesting praise so over the top that it stops being believable. MW lists both senses as accepted, so the word is genuinely Janus-faced; expect about half your readers to take it the wrong way.",
+  "exampleCorrect": "The toast was so fulsome that the guest of honor visibly squirmed, knowing the speaker barely tolerated him in private.",
+  "exampleMisused": "The mayor offered fulsome thanks to the volunteers, calling them the backbone of the recovery effort."
+ },
+ {
+  "word": "gibe",
+  "partOfSpeech": "noun",
+  "definition": "A gibe is a taunt or mocking remark. To jibe is to agree or be consistent with something. A third word, jive, refers to jazz, dance, or slang.",
+  "commonMisuse": "People write 'that doesn't jive with the facts,' but jive is music and slang. The word for 'agree' is jibe; the word for a taunt is gibe — though dictionaries now also allow jibe for the taunt.",
+  "exampleCorrect": "His cheerful gibe drew a laugh, but the figures he cited didn't jibe with the audited report.",
+  "exampleMisused": "Her account doesn't jive with the witness statement — the word for matching up is jibe."
+ },
+ {
+  "word": "hanged",
+  "partOfSpeech": "verb",
+  "definition": "Hanged is the past tense of 'hang' reserved for executions — a person put to death by suspension. Hung, the ordinary past tense, covers everything else: pictures, coats, juries.",
+  "commonMisuse": "People say a criminal was 'hung,' or that a portrait was 'hanged.' The distinction is narrow and fading, but in careful writing only people are hanged; objects are hung.",
+  "exampleCorrect": "The portrait of the judge who had once hanged three outlaws was hung in the courthouse lobby.",
+  "exampleMisused": "The convict was hung at dawn, when the formal past tense for an execution is hanged."
+ },
+ {
+  "word": "hangar",
+  "partOfSpeech": "noun",
+  "definition": "A hangar is the large building where aircraft are housed and maintained. A hanger, its homophone, is the shaped frame, usually wire or wood, you hang clothes on.",
+  "commonMisuse": "Almost everyone knows the closet word and spells both 'hanger'. The aircraft building takes an A: hangAr for Aircraft. The closet one is the default because we touch it daily, so the rarer spelling gets overwritten.",
+  "exampleCorrect": "The mechanics rolled the small jet into the hangar, where someone had absurdly hung a flight suit on a wire hanger by the door.",
+  "exampleMisused": "The vintage planes were stored in a massive hanger at the edge of the runway."
+ },
+ {
+  "word": "high dudgeon",
+  "partOfSpeech": "idiom",
+  "definition": "A state of intense indignation or resentful anger, usually expressed with offended dignity. \"Dudgeon\" is an old word for a feeling of offense or ill humor, used today almost exclusively in this phrase.",
+  "commonMisuse": "People say or write \"high dungeon,\" picturing a tower cell. \"Dudgeon\" is unfamiliar and sounds almost identical to \"dungeon,\" so listeners substitute the concrete, well-known word and assume the phrase paints a vivid image of imprisonment.",
+  "exampleCorrect": "She stormed out of the homeowners' meeting in high dudgeon after the board overruled her objection without discussion.",
+  "exampleMisused": "He left the negotiation in high dungeon, slamming the door behind him."
+ },
+ {
+  "word": "historic",
+  "partOfSpeech": "adjective",
+  "definition": "Historic means significant or famous in history, the kind of moment future generations remember. Historical means simply relating to the past, regardless of importance. Every historic event is historical, but not every historical event is historic.",
+  "commonMisuse": "The words share a root and only the ending differs, so writers inflate the ordinary into the momentous, calling routine old documents \"historic\" or a genuinely landmark moment merely \"historical.\" Historic singles out importance; historical just points to the past.",
+  "exampleCorrect": "The museum's basement holds boxes of historical farm letters, but only one document upstairs marked a truly historic turn in the colony's fate.",
+  "exampleMisused": "The astronaut's first step onto the surface was a historical moment broadcast to millions worldwide."
+ },
+ {
+  "word": "hoard",
+  "partOfSpeech": "noun",
+  "definition": "A hoard is a hidden or carefully accumulated supply of something valuable. A horde is a large, often unruly crowd or swarm of people or creatures.",
+  "commonMisuse": "These are homophones, and the images blur: a 'horde' of treasure feels right because both suggest abundance. But a horde is always a crowd, and a hoard is always a stash. Picture the dragon: it has a hoard, and it fears the horde.",
+  "exampleCorrect": "Archaeologists uncovered a hoard of Roman coins just before a horde of curious tourists descended on the dig site.",
+  "exampleMisused": "The recluse kept a horde of canned goods stacked in the basement."
+ },
+ {
+  "word": "Hobson's choice",
+  "partOfSpeech": "noun",
+  "definition": "A situation offering only the illusion of choice, since the single option presented must be either accepted exactly as given or refused entirely, with no genuine alternative.",
+  "commonMisuse": "It is often misused to mean a tough decision between two undesirable options. A true Hobson's choice is take-it-or-leave-it, with only one thing on offer, named for a stable owner who let customers take the nearest horse or none.",
+  "exampleCorrect": "The landlord offered a Hobson's choice: sign the lease exactly as written today, or look elsewhere.",
+  "exampleMisused": "Stuck between two bad job offers, he sighed that it was a real Hobson's choice."
+ },
+ {
+  "word": "home in",
+  "partOfSpeech": "verb phrase",
+  "definition": "To zero in on a target or topic, the way a homing pigeon or guided missile moves steadily toward its destination. The focus narrows as you close on what matters.",
+  "commonMisuse": "Home in is frequently written as 'hone in,' confusing it with hone, which means to sharpen. The traditional phrase is home in (the homing-pigeon image). 'Hone in' has been used so often that Merriam-Webster now includes it, though careful writers and editors still prefer home in for accuracy.",
+  "exampleCorrect": "After three rounds of interviews, the committee began to home in on two finalists with strong field experience.",
+  "exampleMisused": "Let's hone in on the budget question before lunch, the chair said, using the newer variant rather than home in."
+ },
+ {
+  "word": "hunger pangs",
+  "partOfSpeech": "noun",
+  "definition": "Sharp sensations in the stomach that come with early hunger or fasting. A pang is a sudden brief pain or feeling, which is exactly what an empty stomach delivers.",
+  "commonMisuse": "Because hunger does cause discomfort, people often write hunger pains, which seems to fit. But the original word is pangs, meaning sudden stabs of sensation, not chronic aches. The eggcorn is intuitive but historically wrong.",
+  "exampleCorrect": "The first hunger pangs hit around hour twelve of the fast, sharp enough to remind her exactly why she usually ate breakfast.",
+  "exampleMisused": "He ignored the hunger pains through the morning meeting, regretting his decision to skip both breakfast and his usual coffee."
+ },
+ {
+  "word": "hyperbole",
+  "partOfSpeech": "noun",
+  "definition": "Deliberate, obvious exaggeration used for emphasis or effect and not meant to be taken literally, as in \"I've told you a million times.\" It is pronounced hy-PER-buh-lee, in four syllables.",
+  "commonMisuse": "People who have only read the word, never heard it, say \"hyper-bowl,\" treating it as a compound of \"hyper\" and \"bowl.\" The Greek-derived four-syllable pronunciation is impossible to guess from the spelling alone.",
+  "exampleCorrect": "Saying the line at the coffee shop stretched for miles was hyperbole, but it did snake out the door and around the corner.",
+  "exampleMisused": "That's just hyper-bowl; nobody actually waited ten hours for the release."
+ },
+ {
+  "word": "impassive",
+  "partOfSpeech": "adjective",
+  "definition": "Impassive means showing no feeling at all, expressionless. Impassioned, its near-opposite, means filled with strong feeling, charged with passion or fervor. They sit one syllable apart but describe exact opposites.",
+  "commonMisuse": "The near-identical spellings invite a slip, and writers occasionally type one for the other, completely flipping the picture. An impassioned juror reacts to everything; an impassive juror gives nothing away. Reading them as synonyms turns the sentence inside out.",
+  "exampleCorrect": "The defendant stayed impassive throughout the verdict, even as her lawyer delivered an impassioned objection that filled the courtroom.",
+  "exampleMisused": "The professor delivered an impassive speech about climate change that left the auditorium on its feet."
+ },
+ {
+  "word": "infer",
+  "partOfSpeech": "verb",
+  "definition": "Infer means to work out a conclusion from evidence or context. Imply, its partner in confusion, means to suggest or hint at something without saying it directly. The listener infers; the speaker implies. They are two ends of one exchange.",
+  "commonMisuse": "Because both verbs deal with unstated meaning, writers use infer for imply, saying \"are you inferring that I lied?\" The confusion peaks when infer is stretched to mean hint at. Remember: you can only infer something that someone else, or the evidence, has implied.",
+  "exampleCorrect": "The CEO's tight smile seemed to imply trouble, and from it the staff inferred that layoffs were already on the table.",
+  "exampleMisused": "Are you inferring that I'm the one who finished the leftover lasagna without telling anyone?"
+ },
+ {
+  "word": "inflammable",
+  "partOfSpeech": "adjective",
+  "definition": "Capable of catching fire easily; identical in meaning to flammable, despite the deceptive in- at the start of the word.",
+  "commonMisuse": "Read as 'not flammable' on warning labels by enough people that the fire-safety world quietly switched to flammable. The in- here is intensifying, not negating, but the misread was dangerous enough that English effectively retired the older word.",
+  "exampleCorrect": "The varnish is highly inflammable, so we store it in the metal cabinet at the back of the shop, away from any pilot lights.",
+  "exampleMisused": "I figured the cleaner had to be inflammable since the label didn't show a flame, so I used it right next to the stove."
+ },
+ {
+  "word": "ingenuous",
+  "partOfSpeech": "adjective",
+  "definition": "Ingenuous means innocent, candid, and unguarded in a way that suggests inexperience. Ingenious, its look-alike, means cleverly original and inventive, the mark of a brilliant idea or design. The words look almost identical but mean nearly opposite things.",
+  "commonMisuse": "One transposed pair of letters separates them, so writers praise a clever fix as \"ingenuous\" or describe a naive remark as \"ingenious.\" Worse, ingenuous gets tangled with disingenuous, its own opposite, which can flip a compliment into an insult.",
+  "exampleCorrect": "The young engineer's ingenious fix for the leak impressed everyone, though her ingenuous surprise at the applause was just as charming.",
+  "exampleMisused": "The engineer came up with an ingenuous fix for the leak using a coat hanger and a strip of duct tape."
+ },
+ {
+  "word": "ironic",
+  "partOfSpeech": "adjective",
+  "definition": "Marked by a meaningful contrast between expectation and reality; characterized by a result that pointedly undercuts what was intended or anticipated.",
+  "commonMisuse": "Frequently used to mean any odd coincidence rather than a true reversal of expectation. A rainy wedding is unlucky; a meteorologist's wedding rained out by a storm she failed to predict is ironic. MW notes the loose use has been around for a century, but the sharper sense is what carries the wit.",
+  "exampleCorrect": "There is something deeply ironic about a fire chief whose own house burned down because the smoke detector battery had died.",
+  "exampleMisused": "It's so ironic, I was just thinking about my cousin when she called me out of the blue this morning."
+ },
+ {
+  "word": "irregardless",
+  "partOfSpeech": "adverb",
+  "definition": "A nonstandard synonym for regardless. The ir- prefix is a redundant negative tacked onto a word that already means without regard, producing a kind of double negative.",
+  "commonMisuse": "People use irregardless to sound emphatic, but most readers and listeners hear it as an error. It has been in use for over a century and appears in dictionaries, yet it remains widely disliked. Regardless does the same work without the wince.",
+  "exampleCorrect": "She planned to climb the ridge that weekend regardless of the forecast, having waited two years for the permit.",
+  "exampleMisused": "He insisted he would attend the meeting irregardless of what his doctor had told him about rest."
+ },
+ {
+  "word": "judicious",
+  "partOfSpeech": "adjective",
+  "definition": "Judicious means showing good judgment — wise, prudent, sensible. Judicial, its near-twin, means relating to courts, judges, or the administration of justice.",
+  "commonMisuse": "People reach for the grander-sounding 'judicial' when they mean 'judicious,' as in 'a judicial use of the budget.' Both trace back to the Latin for judge, but only judicious means wise; judicial belongs to the courtroom.",
+  "exampleCorrect": "Her judicious budget cuts spared the essentials — a restraint the judicial branch rarely manages with its own funding.",
+  "exampleMisused": "He praised the committee's judicial spending, when he simply meant they had been wise with the money."
+ },
+ {
+  "word": "just deserts",
+  "partOfSpeech": "phrase",
+  "definition": "The punishment or reward that someone genuinely deserves. Here \"deserts\" is an old noun meaning \"things deserved,\" related to \"deserve\" and stressed on the second syllable, like the verb.",
+  "commonMisuse": "Almost everyone writes \"just desserts,\" imagining a fitting comeuppance served up like a final course. The pronunciation matches the sweet \"dessert,\" and the food metaphor is so satisfying that the historically correct spelling looks like a typo.",
+  "exampleCorrect": "After years of cheating customers, the contractor lost his license and his reputation, finally getting his just deserts.",
+  "exampleMisused": "The con artist got caught at last and received his just desserts."
+ },
+ {
+  "word": "Kafkaesque",
+  "partOfSpeech": "adjective",
+  "definition": "Having a nightmarish, disorienting quality marked by senseless complexity and oppressive bureaucracy, in which individuals are trapped by illogical systems they cannot understand or escape.",
+  "commonMisuse": "It is often used loosely for anything merely annoying or inconvenient. Properly, Kafkaesque, after the writer Franz Kafka, describes a specifically surreal, bureaucratic absurdity that leaves a person helpless and bewildered.",
+  "exampleCorrect": "Renewing the permit became Kafkaesque: each office insisted he first obtain a form only that same office could issue.",
+  "exampleMisused": "He found the long coffee-shop line this morning genuinely Kafkaesque."
+ },
+ {
+  "word": "lay",
+  "partOfSpeech": "verb",
+  "definition": "Lay means to put or place something down and is transitive, requiring an object: you lay a book on the table. Lie means to recline and is intransitive, taking no object: you lie on the couch.",
+  "commonMisuse": "The pair tangles because lay is also the past tense of lie, so \"I lay down yesterday\" is correct while \"I'm going to lay down now\" is not. In the present tense, use lie when nothing is being placed and lay only when there's an object.",
+  "exampleCorrect": "After she laid the quilt over the daybed, she went to lie down on the screened porch and listen to the cicadas.",
+  "exampleMisused": "The cat likes to lay in the patch of sun by the kitchen window every afternoon."
+ },
+ {
+  "word": "libel",
+  "partOfSpeech": "noun",
+  "definition": "Libel and slander are both forms of defamation, a false statement that damages a reputation. Libel is the written or published form; slander is the spoken form. The medium is the whole distinction.",
+  "commonMisuse": "People use either word for any insult, treating them as synonyms, because both name reputational harm. But the legal line holds: a damaging magazine article or tweet is potentially libel, while a damaging remark at a dinner party is slander.",
+  "exampleCorrect": "The magazine feared the printed claim was libel, while the editor's offhand remark at the gala edged toward slander.",
+  "exampleMisused": "She threatened to sue the newspaper for slander after the article appeared on the front page."
+ },
+ {
+  "word": "literally",
+  "partOfSpeech": "adverb",
+  "definition": "In a strictly factual, non-figurative sense; word for word, exactly as described. Also widely used as a hyperbolic intensifier meaning 'virtually' or 'figuratively.'",
+  "commonMisuse": "Used as a figurative intensifier, as in 'I literally died,' which is the opposite of the strict sense. MW notes this hyperbolic use goes back to 1769 and has appeared in dictionaries since 1909, so it is hardly new. Strict writers still reserve literally for the precise sense to avoid pulling the rug out from under it.",
+  "exampleCorrect": "The translator stuck literally to the original, preserving even the awkward word order of the German source.",
+  "exampleMisused": "By the end of the hike, my feet were literally on fire, and I had to soak them in the creek before I could walk back to the car."
+ },
+ {
+  "word": "lo and behold",
+  "partOfSpeech": "idiom",
+  "definition": "An exclamation expressing surprise at something noticed or revealed. 'Lo' is an old interjection meaning 'look,' and the phrase has the flavor of a storyteller pointing dramatically at the moment of discovery.",
+  "commonMisuse": "Lo and behold sometimes gets written as 'low and behold,' because 'lo' is rare outside this phrase and a few biblical contexts. There is nothing low about the expression — 'lo' is simply an archaic command to look. Pair it with 'behold' (also meaning to look) and the doubling makes sense.",
+  "exampleCorrect": "I rummaged through the attic for hours and, lo and behold, found my grandmother's wedding ring inside an old cigar box.",
+  "exampleMisused": "Low and behold, the missing dog turned up on the neighbor's porch, the newsletter read, instead of lo and behold."
+ },
+ {
+  "word": "loath",
+  "partOfSpeech": "adjective",
+  "definition": "Loath, without a final e, is an adjective meaning reluctant or unwilling, usually paired with to: loath to admit. Loathe, with the e, is a verb meaning to hate intensely or feel deep disgust.",
+  "commonMisuse": "The two differ by one silent letter, so writers add the e to the adjective (\"loathe to apologize\") or drop it from the verb (\"she loaths liver\"). If you mean reluctance, use loath; if you mean hatred, use loathe.",
+  "exampleCorrect": "She was loath to attend the reunion because she loathed the forced small talk that always filled the first hour.",
+  "exampleMisused": "The senator seemed loathe to take questions, ducking out the side door before reporters could catch him."
+ },
+ {
+  "word": "Machiavellian",
+  "partOfSpeech": "adjective",
+  "definition": "Characterized by cunning, calculated deceit, and a willingness to use unscrupulous methods, especially in pursuit of political power or personal advantage.",
+  "commonMisuse": "It is often used loosely for any sneakiness or mild trickery. Strictly, Machiavellian, after the political writer Niccolo Machiavelli, implies a deliberate, strategic ruthlessness in which ends justify the means.",
+  "exampleCorrect": "The senator's Machiavellian maneuvering pitted his rivals against each other until he alone remained for the nomination.",
+  "exampleMisused": "She called her coworker Machiavellian for quietly taking the last good parking spot."
+ },
+ {
+  "word": "make do",
+  "partOfSpeech": "idiom",
+  "definition": "To get by with whatever resources happen to be available, even if they fall short of ideal. You make do with leftovers, with a borrowed tool, with whatever the situation hands you.",
+  "commonMisuse": "Make do is often written as 'make due,' as though something were being made to come due, like a bill. The original is plainer: to make something do — that is, to make it suffice. 'Due' suggests obligation or arrival, which has nothing to do with the meaning.",
+  "exampleCorrect": "When the power cut out, the diner had to make do with candles and a propane grill until the lights came back at midnight.",
+  "exampleMisused": "We'll just have to make due with the smaller conference room this week, the calendar invite said, when make do was the correct phrase."
+ },
+ {
+  "word": "medium",
+  "partOfSpeech": "noun",
+  "definition": "A medium is a single means of communication or expression, such as television or oil paint. Media is the plural, and is also used collectively for the press and broadcasting.",
+  "commonMisuse": "People write 'a media' or 'social media is a powerful media' when they mean one channel. Because 'media' dominates everyday speech, the singular 'medium' feels artistic or technical, so the plural gets pressed into singular service.",
+  "exampleCorrect": "Radio remains a surprisingly intimate medium, even as audiences scatter across newer media like podcasts and streaming video.",
+  "exampleMisused": "Instagram has become the most influential media for young consumers."
+ },
+ {
+  "word": "mettle",
+  "partOfSpeech": "noun",
+  "definition": "Mettle is a person's courage, spirit, and resilience under pressure. Metal, its homophone, is a hard, typically shiny material like iron or gold.",
+  "commonMisuse": "The homophones share an origin, which makes the slip feel almost reasonable. People write 'test his metal' for proving someone's character. The phrase is 'test his mettle': mettle, with the double T, is the inner grit, not the substance.",
+  "exampleCorrect": "The grueling final exam tested every student's mettle, while the chemistry section drilled them on which metal conducts heat fastest.",
+  "exampleMisused": "The championship game was a true test of the young team's metal."
+ },
+ {
+  "word": "militate",
+  "partOfSpeech": "verb",
+  "definition": "Militate means to have force or weight as a factor working against something, almost always paired with against. Mitigate means to make something less severe, harmful, or intense. The two pull in opposite directions.",
+  "commonMisuse": "They sound alike, so writers blend them into \"mitigate against,\" or use militate where they mean to lessen. Heavy rain militates against the picnic; an umbrella mitigates the soaking. Use mitigate alone, or militate strictly with against.",
+  "exampleCorrect": "Rising interest rates militate against the bank's expansion, though new reserves should mitigate the damage if the deal still proceeds.",
+  "exampleMisused": "The new safety protocols are designed to militate the risk of accidents on the assembly line."
+ },
+ {
+  "word": "mince words",
+  "partOfSpeech": "idiom",
+  "definition": "To soften what you say with careful, polite phrasing. The idiom almost always appears in the negative, describing someone who speaks bluntly and refuses to dress up a hard truth.",
+  "commonMisuse": "Mince words is so commonly used in the negative ('she doesn't mince words') that some writers reach for it positively, as in 'he minced words for the sake of the audience.' That works grammatically but feels off; the natural home of the phrase is the negative form, where the contrast with bluntness lives.",
+  "exampleCorrect": "The coach doesn't mince words after a loss — players know to expect a frank breakdown of every missed assignment.",
+  "exampleMisused": "She minced her words carefully during the eulogy, the article said, where 'chose her words carefully' would have been more natural."
+ },
+ {
+  "word": "mind your p's and q's",
+  "partOfSpeech": "idiom",
+  "definition": "To be careful about your behavior, especially to be polite or well-mannered. The origin is disputed, with theories ranging from printers' typesetting to barkeepers tracking pints and quarts.",
+  "commonMisuse": "Nobody fully agrees what the p's and q's originally stood for, which leads to confident but conflicting explanations. The phrase itself is stable; the etymology isn't. Use it for manners and don't get pinned down on which trade invented it.",
+  "exampleCorrect": "She told the children to mind their p's and q's at their great-aunt's house, especially around the porcelain figurines.",
+  "exampleMisused": "He told the interns to mind their p's and q's, then explained at length an etymology he had invented on the spot."
+ },
+ {
+  "word": "minuscule",
+  "partOfSpeech": "adjective",
+  "definition": "Extremely small, tiny, or negligible in size or amount. It derives from the Latin 'minus', meaning less.",
+  "commonMisuse": "People spell it 'miniscule', assuming it relates to 'mini'. It does not; the root is 'minus'. The 'mini' spelling is so widespread it is now sometimes listed as a variant, but careful writers and editors still treat it as an error.",
+  "exampleCorrect": "The pay raise turned out to be minuscule, barely enough to cover the rising cost of her morning coffee.",
+  "exampleMisused": "There was only a miniscule chance the flight would leave on time."
+ },
+ {
+  "word": "mischievous",
+  "partOfSpeech": "adjective",
+  "definition": "Inclined to playful trouble-making; causing minor harm or annoyance in a teasing, often endearing way. It has three syllables, stressed on the first: MIS-chuh-vus.",
+  "commonMisuse": "Many people say and spell it \"mischievious,\" adding a fourth syllable and stressing the second: mis-CHEE-vee-us. The extra \"i\" mirrors common words like \"devious\" and \"previous,\" so the pattern feels natural even though it is wrong.",
+  "exampleCorrect": "The puppy wore a mischievous expression, the kind that always meant a shoe had already been hidden somewhere in the house.",
+  "exampleMisused": "He gave her a mischievious grin before revealing the surprise party."
+ },
+ {
+  "word": "moot",
+  "partOfSpeech": "adjective",
+  "definition": "Carrying two related senses. One: open to argument or debate, as in a moot point worth discussing. Two: stripped of practical relevance, as in a question already settled by events.",
+  "commonMisuse": "The two senses sit awkwardly together. Speakers often use moot to mean not worth discussing, which is closer to the second sense than the first. Both meanings are standard, so context usually has to do the work of telling them apart.",
+  "exampleCorrect": "Whether the bill would have passed became moot the moment the governor announced she was withdrawing it.",
+  "exampleMisused": "He kept arguing about the route, but with the road closed, the whole debate was a moot point for discussion."
+ },
+ {
+  "word": "morale",
+  "partOfSpeech": "noun",
+  "definition": "Morale is a noun naming the collective mood, confidence, and enthusiasm of a group. Moral, its near-twin, is an adjective relating to principles of right and wrong, or a noun meaning the lesson of a story.",
+  "commonMisuse": "Writers drop the final e and write \"moral\" when they mean group spirit, turning a slump in team enthusiasm into an ethical failing. One trick: the e in morale stands for emotion, the feeling that runs through a team.",
+  "exampleCorrect": "She made the moral choice to report the fraud, even knowing the disclosure would shatter morale across her own department.",
+  "exampleMisused": "After the layoffs, the moral on the engineering team dropped to its lowest point in years."
+ },
+ {
+  "word": "nauseous",
+  "partOfSpeech": "adjective",
+  "definition": "Traditionally, something nauseous is what causes sickness, while to be nauseated is to feel sick to your stomach. A nauseous smell leaves you nauseated.",
+  "commonMisuse": "Almost everyone now says 'I feel nauseous' to mean they feel ill, and Merriam-Webster accepts it. But careful writers keep the older split: nauseous causes the sickness, nauseated is the sickness felt.",
+  "exampleCorrect": "The nauseous reek from the bilge left half the passengers nauseated before the ferry had even cleared the harbor.",
+  "exampleMisused": "After the roller coaster she said she felt nauseous, when traditionally she was the one nauseated."
+ },
+ {
+  "word": "nemesis",
+  "partOfSpeech": "noun",
+  "definition": "An agent of inescapable retribution or downfall; also a long-standing rival or opponent so formidable as to seem destined to defeat or frustrate someone.",
+  "commonMisuse": "It is often watered down to mean any rival or competitor. Originally the Greek goddess of retributive justice, nemesis properly carries a sense of fated, deserved comeuppance, not mere rivalry.",
+  "exampleCorrect": "Years of fraud finally caught up with the financier when a dogged prosecutor became his nemesis.",
+  "exampleMisused": "She jokingly called the coworker who beat her at office trivia her nemesis."
+ },
+ {
+  "word": "nerve-racking",
+  "partOfSpeech": "adjective",
+  "definition": "Causing intense stress, anxiety, or tension. The image is of one's nerves being stretched painfully on the rack, the same torture device behind \"rack one's brain.\"",
+  "commonMisuse": "\"Nerve-wracking\" is extremely common and now widely accepted, but the original and still-preferred spelling is \"nerve-racking.\" Writers choose \"wrack\" because frayed nerves feel like wreckage, and the variant has become so frequent it looks correct.",
+  "exampleCorrect": "Waiting for the biopsy results over a long holiday weekend was the most nerve-racking stretch of her year.",
+  "exampleMisused": "The final round of interviews was absolutely nerve-wracking."
+ },
+ {
+  "word": "nip it in the bud",
+  "partOfSpeech": "idiom",
+  "definition": "To stop something at an early stage, before it has a chance to develop into a real problem. The image is from gardening: snipping a bud off a plant prevents it from blooming.",
+  "commonMisuse": "The phrase is sometimes heard as 'nip it in the butt,' which switches a horticultural image for an anatomical one. The point of the original is timing — catching a problem before it flowers. A nip in the bud is preventive; a nip in the butt is just bewildering.",
+  "exampleCorrect": "The principal wanted to nip the cheating in the bud before midterms, so she gave the same warning in every homeroom.",
+  "exampleMisused": "We need to nip this gossip in the butt before HR gets involved, the manager wrote, instead of nip it in the bud."
+ },
+ {
+  "word": "noisome",
+  "partOfSpeech": "adjective",
+  "definition": "Offensive or disgusting, especially because of a foul smell; broadly, harmful or unpleasant in a sickening way.",
+  "commonMisuse": "Reliably mistaken for noisy because of the spelling, but the two words are unrelated. Noisome traces back to annoy, not noise, and almost always describes something that stinks or sickens, not something loud.",
+  "exampleCorrect": "A noisome cloud rolled off the rendering plant whenever the wind shifted, making the whole neighborhood reach for the windows.",
+  "exampleMisused": "The noisome rehearsal next door went on past midnight, and we could feel the bass through our kitchen floor."
+ },
+ {
+  "word": "nonpareil",
+  "partOfSpeech": "adjective or noun",
+  "definition": "From French non pareil, literally not equal. It describes someone or something that has no peer or rival; in its strict sense, the absolute best of its kind, not merely excellent.",
+  "commonMisuse": "Nonpareil gets used loosely to mean very good, but the word carries a stronger claim than that. Strictly, calling a chef a nonpareil means no other chef alive matches them, not simply that they're talented.",
+  "exampleCorrect": "Among twentieth-century cellists, Casals was a nonpareil, his Bach recordings setting a standard no contemporary equaled.",
+  "exampleMisused": "The bakery on the corner makes a nonpareil croissant, easily one of the better ones in the neighborhood."
+ },
+ {
+  "word": "nonplussed",
+  "partOfSpeech": "adjective",
+  "definition": "So thoroughly surprised, confused, or thrown off that one is briefly unable to think clearly or decide how to react.",
+  "commonMisuse": "Frequently used to mean unfazed or unbothered, which is the opposite. The non- looks like a negating prefix, which fuels the confusion. MW notes the 'unfazed' sense as a chiefly American development, but most editors still treat it as an error.",
+  "exampleCorrect": "The young clerk stood nonplussed at the counter, holding a passport she had no idea how to process under the new rules.",
+  "exampleMisused": "He seemed totally nonplussed by the boos from the crowd and just kept playing the same chord progression."
+ },
+ {
+  "word": "nothing to write home about",
+  "partOfSpeech": "idiom",
+  "definition": "Unremarkable; not impressive or noteworthy enough to mention with any enthusiasm. The image is of a traveler so unmoved by an experience that it would not earn a line in a letter back home.",
+  "commonMisuse": "Some people say \"nothing to ride home about,\" picturing a triumphant return on horseback. The swap feels plausible because the phrase already evokes a journey, and \"ride\" and \"write\" sound similar in fast speech, so the homecoming image quietly drifts from the mailbox to the saddle.",
+  "exampleCorrect": "The hotel had a great view, but the breakfast buffet was lukewarm coffee and stale pastries, really nothing to write home about.",
+  "exampleMisused": "The concert was fine, but honestly the opening act was nothing to ride home about."
+ },
+ {
+  "word": "nuclear",
+  "partOfSpeech": "adjective",
+  "definition": "Relating to the nucleus of an atom or a cell, or to the energy released by atomic reactions. It is properly pronounced NOO-klee-er, in two clear back-half syllables.",
+  "commonMisuse": "Many speakers, including some prominent public figures, say \"nucular\" (NOO-kyuh-ler). The brain reshapes the unfamiliar \"-clear\" ending into the more common \"-cular\" pattern found in words like \"molecular\" and \"particular.\"",
+  "exampleCorrect": "The plant's engineers explained how the nuclear reactor's cooling system would shut down safely in an emergency.",
+  "exampleMisused": "He spent the whole briefing talking about nucular power without anyone correcting him."
+ },
+ {
+  "word": "obviate",
+  "partOfSpeech": "verb",
+  "definition": "To make something unnecessary by anticipating and removing the need for it; to prevent a difficulty from arising in the first place.",
+  "commonMisuse": "Mistaken for 'make obvious' because of the spelling, but the two words only share Latin roots. To obviate a problem is to head it off, not to point it out. The right paraphrase is almost always 'render unnecessary' or 'preclude.'",
+  "exampleCorrect": "Installing the backup generator obviated the need to evacuate the data center every time a summer storm rolled through.",
+  "exampleMisused": "Her tone obviated the fact that she had been dreading the family dinner all week."
+ },
+ {
+  "word": "occurrence",
+  "partOfSpeech": "noun",
+  "definition": "Something that happens; an event, incident, or instance of something taking place. It is the noun form of the verb \"occur.\"",
+  "commonMisuse": "People write \"occurance,\" using the more common \"-ance\" ending and a single r. The correct form doubles the r and ends in \"-ence,\" but since the ending is unstressed and \"-ance\" words are everywhere, the wrong spelling sounds just as right.",
+  "exampleCorrect": "A black bear wandering through the suburb's main street was a rare occurrence that drew a crowd of phone-wielding onlookers.",
+  "exampleMisused": "Power outages have become a regular occurance in our neighborhood this winter."
+ },
+ {
+  "word": "officious",
+  "partOfSpeech": "adjective",
+  "definition": "Officious means meddlesome and self-important, the trait of someone who pushes unwanted help and takes charge uninvited. Official, its look-alike, means belonging to or authorized by an office or governing body; formally sanctioned.",
+  "commonMisuse": "Officious sounds like a fancier official, so writers use it as a compliment when it is actually an insult. An official letter comes from someone in authority; an officious letter comes from someone who appointed themselves to write it.",
+  "exampleCorrect": "The mayor's office released an official statement, but it was an officious clerk who insisted on reading it aloud twice to the press.",
+  "exampleMisused": "She showed up at the courthouse with an officious document signed by the deputy clerk that morning."
+ },
+ {
+  "word": "on tenterhooks",
+  "partOfSpeech": "idiom",
+  "definition": "In a state of nervous suspense, waiting tensely for something to happen. Tenterhooks were the iron hooks that stretched wet cloth taut on a frame called a tenter as it dried.",
+  "commonMisuse": "On tenterhooks is often written as 'on tenderhooks,' likely because tender feels closer to the tender emotional state the phrase describes. But the hooks in question are not soft. They held cloth under tension on a drying frame, which is exactly the suspended, stretched feeling the idiom captures.",
+  "exampleCorrect": "The whole jury sat on tenterhooks as the foreman unfolded the verdict, his hands visibly trembling.",
+  "exampleMisused": "We were on tenderhooks waiting for the adoption agency to call, she posted, where tenterhooks was the proper word."
+ },
+ {
+  "word": "on the lam",
+  "partOfSpeech": "idiom",
+  "definition": "In flight from pursuers, especially fleeing the police or escaping captivity. \"Lam\" is old slang meaning to run off quickly, related to an archaic sense of \"lam\" meaning to beat or strike.",
+  "commonMisuse": "People write \"on the lamb,\" picturing a baby sheep. \"Lam\" is obscure slang that means nothing to most people, while \"lamb\" is a familiar word that sounds identical, so the brain supplies the animal it already knows.",
+  "exampleCorrect": "The embezzler spent two years on the lam in three countries before a tip led marshals to a beach town in Costa Rica.",
+  "exampleMisused": "After the heist, the robbers were on the lamb for months."
+ },
+ {
+  "word": "one and the same",
+  "partOfSpeech": "idiom",
+  "definition": "A single thing rather than two; identical. The phrase emphasizes that two names, descriptions, or apparent entities actually refer to the very same person or thing.",
+  "commonMisuse": "The phrase is often heard and written as 'one in the same,' which scans well but doesn't quite parse. The original means literally one — the same — pressing both ideas together. 'One in the same' suggests something nested inside itself, which is not the picture the idiom intends.",
+  "exampleCorrect": "It turned out the anonymous donor and the museum's harshest critic were one and the same retired professor.",
+  "exampleMisused": "The CEO and the chairman are one in the same person, the bio claimed, instead of one and the same."
+ },
+ {
+  "word": "one fell swoop",
+  "partOfSpeech": "idiom",
+  "definition": "All at once, in a single swift and often devastating action. \"Fell\" is an archaic adjective meaning fierce, cruel, or deadly, related to the word \"felon.\"",
+  "commonMisuse": "People say \"one foul swoop,\" hearing \"foul\" because the phrase describes something destructive and \"fell\" no longer means anything to modern ears. The bird-of-prey imagery makes \"swoop\" feel menacing, so a familiar negative word slides in.",
+  "exampleCorrect": "The merger eliminated three regional offices in one fell swoop, and two hundred employees learned their fate by email.",
+  "exampleMisused": "The storm knocked out power to the whole valley in one foul swoop."
+ },
+ {
+  "word": "ordnance",
+  "partOfSpeech": "noun",
+  "definition": "Ordnance is military hardware: weapons, ammunition, and the equipment used to maintain them. An ordinance, its near-twin, is a local law or formal decree, usually passed by a city or town council. A single letter i separates them.",
+  "commonMisuse": "The words are near-homophones differing only by that missing i, so writers drift between them. But one is a parking rule and the other is artillery shells. Unexploded ordnance is a buried bomb; an unexploded ordinance is just a law nobody enforces.",
+  "exampleCorrect": "The city ordinance banned fireworks downtown, even as Navy crews cleared old ordnance from the harbor a mile away.",
+  "exampleMisused": "Crews spent the week clearing unexploded ordinance left behind from a training exercise in the 1950s."
+ },
+ {
+  "word": "Orwellian",
+  "partOfSpeech": "adjective",
+  "definition": "Suggestive of the authoritarian world of George Orwell's 1984, marked by pervasive surveillance, manipulative propaganda, and the systematic control of information and thought.",
+  "commonMisuse": "It is often used loosely to mean simply creepy, unpleasant, or strict. Properly, Orwellian refers to the specific apparatus of authoritarian state control, surveillance, and distortion of truth.",
+  "exampleCorrect": "The regime's Orwellian ministry rewrote old newspapers nightly so the leader's every prediction appeared correct.",
+  "exampleMisused": "She thought the new motion-sensor lights in the hallway were a bit Orwellian."
+ },
+ {
+  "word": "palate",
+  "partOfSpeech": "noun",
+  "definition": "Palate is the roof of the mouth, or one's sense of taste. Palette is the board a painter mixes colors on, or a range of colors. Pallet is a flat wooden platform for moving cargo, or a thin straw mattress.",
+  "commonMisuse": "All three are pronounced alike, so writers grab whichever spelling comes first, praising a chef's \"palette\" or a mural's \"pallet.\" Keep them sorted by setting: a wine palate, a paint palette, a warehouse pallet.",
+  "exampleCorrect": "The chef trusted her palate, the painter loaded her palette, and the dockworker stacked another pallet by the loading bay.",
+  "exampleMisused": "The chef praised her young apprentice's palette for spice and her instinct for balance."
+ },
+ {
+  "word": "Pandora's box",
+  "partOfSpeech": "noun",
+  "definition": "A source of many serious and unforeseen troubles that, once set loose, cannot be contained again, so that opening it triggers irreversible and spreading harm.",
+  "commonMisuse": "It is often used merely for a sensitive or awkward topic. In the myth, Pandora releases all the world's evils irreversibly, so the term properly stresses that the troubles, once unleashed, cannot be undone.",
+  "exampleCorrect": "Investigating one suspicious invoice opened a Pandora's box of fraud the auditors could never fully close.",
+  "exampleMisused": "Bringing up vacation plans at dinner opened a Pandora's box of mild disagreement we resolved by dessert."
+ },
+ {
+  "word": "paradigm",
+  "partOfSpeech": "noun",
+  "definition": "A model, pattern, or example; in science, an entire framework of theory, methods, and assumptions that shapes how a field understands and investigates its subject.",
+  "commonMisuse": "Since Thomas Kuhn popularized 'paradigm shift,' the word is often used loosely as a buzzword for any change or new idea. Properly, a paradigm is a comprehensive underlying framework, not merely a fresh approach.",
+  "exampleCorrect": "The shift from Newtonian physics to relativity represented a genuine change of scientific paradigm in the early twentieth century.",
+  "exampleMisused": "The marketing team announced their new logo as a bold paradigm shift for the brand."
+ },
+ {
+  "word": "paradox",
+  "partOfSpeech": "noun",
+  "definition": "A statement or situation that seems self-contradictory or impossible but may, on closer inspection, turn out to be true or at least meaningful. The contradiction is part of the point.",
+  "commonMisuse": "Paradox often gets stretched to mean simply ironic or surprising. Strictly, a paradox involves an apparent contradiction. Calling it a paradox that the quiet kid grew up to be a comedian is a stretch; that's just unexpected. A real paradox tangles you up when you try to think about it.",
+  "exampleCorrect": "Zeno's paradox argues that motion is impossible because crossing any distance requires first crossing half of it, then half of that, forever.",
+  "exampleMisused": "He called it a paradox that the cheapest item in the store was also the most popular, when really it was just predictable."
+ },
+ {
+  "word": "pass muster",
+  "partOfSpeech": "idiom",
+  "definition": "To be inspected and judged acceptable; to meet the required standard. A \"muster\" is a formal gathering of troops for review, so passing it means surviving scrutiny.",
+  "commonMisuse": "People say \"pass mustard,\" hearing the familiar condiment instead of the military term \"muster.\" The two sound nearly identical, and since \"muster\" is uncommon, the brain reaches for the everyday word even though it makes no sense.",
+  "exampleCorrect": "The contractor's quick patch job did not pass muster with the building inspector, who flagged six code violations.",
+  "exampleMisused": "I rewrote the essay twice, but it still didn't pass mustard with my professor."
+ },
+ {
+  "word": "pique",
+  "partOfSpeech": "verb",
+  "definition": "Pique, as a verb, means to stir up or excite, especially curiosity or interest. Its two homophones do other jobs: peak is the pointed top or highest point of something, and peek is a quick or secretive look. Three homophones, three jobs.",
+  "commonMisuse": "Because all three sound identical, writers reach for the most familiar spelling, producing \"peak my interest\" or \"peak through the blinds.\" The correct phrase is \"pique my interest\"; a trailer can't peak your curiosity unless your curiosity is a mountain.",
+  "exampleCorrect": "From the mountain peak she stopped to peek through her binoculars, and a flash of movement piqued her curiosity at once.",
+  "exampleMisused": "The opening scene was strong enough to peak my interest, even though I usually avoid horror films."
+ },
+ {
+  "word": "peddle",
+  "partOfSpeech": "verb",
+  "definition": "To peddle is to sell goods, often door to door. Its two homophones: a pedal is a foot-operated lever (and to pedal is to work one), and a petal is one of the colored segments of a flower.",
+  "commonMisuse": "All three sound alike, so the wrong one slips in by ear. 'Peddle' is the trickiest: people write 'pedal his wares' for selling. Remember peddle and sell both have a double letter, and a peddler pushes products, not bicycle levers.",
+  "exampleCorrect": "He would pedal through the park each morning, past vendors trying to peddle flowers whose petals had already begun to wilt.",
+  "exampleMisused": "The street vendor tried to pedal knockoff watches to passing tourists."
+ },
+ {
+  "word": "penultimate",
+  "partOfSpeech": "adjective",
+  "definition": "Next to last; second from the end of a series, never beyond the end.",
+  "commonMisuse": "Often misread as an intensified ultimate, as if pen- meant 'beyond.' It actually means 'almost,' so the penultimate chapter is the one before the last, not a super-ultimate one. MW has a usage article specifically warning against the over-the-top reading.",
+  "exampleCorrect": "The penultimate stage of the race climbs out of the valley before the riders coast into the city for the final sprint.",
+  "exampleMisused": "Winning the championship in triple overtime was the penultimate moment of his entire career."
+ },
+ {
+  "word": "per se",
+  "partOfSpeech": "adverb",
+  "definition": "By or in itself; considered on its own intrinsic nature apart from related factors or consequences. From the Latin meaning 'by itself.'",
+  "commonMisuse": "Because it is heard more than read, per se is often miswritten as 'per say.' The phrase is Latin and ends in 'se'; there is no English word 'say' involved.",
+  "exampleCorrect": "The job is not stressful per se, the lawyer explained, but the looming trial deadlines certainly are.",
+  "exampleMisused": "In his memo he wrote that the policy was not unfair, per say, just poorly explained."
+ },
+ {
+  "word": "perpetuate",
+  "partOfSpeech": "verb",
+  "definition": "Perpetuate means to keep something going, often indefinitely. Perpetrate, its near-twin, means to carry out or commit something, almost always something wrong or criminal. One keeps a thing echoing; the other is the original act.",
+  "commonMisuse": "The words share a prefix and a rhythm, so writers swap them, saying a crook \"perpetuated\" a robbery or a stale joke \"perpetrates\" a stereotype. You perpetrate a crime once; you perpetuate a myth by helping it survive.",
+  "exampleCorrect": "The crew that perpetrated the original fraud is gone, but every careless retelling perpetuates the myth that the bank was never to blame.",
+  "exampleMisused": "The two suspects perpetuated the fraud over a single weekend before fleeing across the state line."
+ },
+ {
+  "word": "perquisite",
+  "partOfSpeech": "noun",
+  "definition": "A perquisite is a privilege or benefit attached to a job or position, beyond salary — the everyday short form is perk. A prerequisite is something required in advance before something else can happen.",
+  "commonMisuse": "These near-identical words point opposite ways. A perquisite is something you get; a prerequisite is something you need. The corner office's view is a perquisite of the role; ten years of work is a prerequisite for it. The shared pre- syllable invites the slip.",
+  "exampleCorrect": "Free parking in the underground garage was the one perquisite of the new job, though two years of fieldwork had been a prerequisite for the offer.",
+  "exampleMisused": "Two years of fieldwork is a perquisite for the senior researcher role, no exceptions."
+ },
+ {
+  "word": "prospective",
+  "partOfSpeech": "adjective",
+  "definition": "Prospective is an adjective meaning likely to happen or potential, relating to the future. Perspective, often confused with it, is a noun meaning a particular way of looking at something — a point of view shaped by where you stand.",
+  "commonMisuse": "The two share most of their letters but differ in job and meaning. Perspective is an angle of vision; prospective looks ahead in time. A prospective student tours the campus, then forms a perspective on it. Writers most often type prospective when they mean a fresh way of seeing.",
+  "exampleCorrect": "From a prospective buyer's perspective, the cramped kitchen was the one flaw the glossy listing photos had carefully hidden.",
+  "exampleMisused": "From her prospective, the merger looked like a disaster waiting to wreck both companies."
+ },
+ {
+  "word": "perspicuous",
+  "partOfSpeech": "adjective",
+  "definition": "Perspicuous describes writing or speech that is clear and easy to follow. Perspicacious, its near-twin, describes a person with sharp insight — quick to notice and understand.",
+  "commonMisuse": "Reached for to sound erudite, the two get swapped because they look almost identical. The link to hold onto: a perspicacious mind produces perspicuous prose — the first is the seeing, the second is the clarity.",
+  "exampleCorrect": "Her perspicacious reading of the raw data led to a perspicuous summary the whole board could follow.",
+  "exampleMisused": "He admired the report's perspicacious wording, when he meant it was perspicuous — admirably clear."
+ },
+ {
+  "word": "peruse",
+  "partOfSpeech": "verb",
+  "definition": "To read or examine something with close, careful attention, going over the material thoroughly rather than glancing at it briefly.",
+  "commonMisuse": "Often used to mean skim or glance through, which is the opposite of the traditional sense. MW does list a 'read in a leisurely way' sense as accepted, but the word still implies attention, not speed. Context usually makes clear which sense is meant.",
+  "exampleCorrect": "The auditor spent the entire afternoon perusing the ledger, flagging every irregularity she could find in the quarterly entries.",
+  "exampleMisused": "I perused the menu real quick on the way in and just grabbed whatever the special was."
+ },
+ {
+  "word": "phenomenon",
+  "partOfSpeech": "noun",
+  "definition": "A phenomenon is a single observable fact, event, or remarkable occurrence. Phenomena is the plural, referring to two or more of them.",
+  "commonMisuse": "People say 'a phenomena' or 'this phenomena is fascinating', treating the plural as singular because it rolls off the tongue. The singular 'phenomenon' ends awkwardly in -non, so the smoother plural gets used for one thing by mistake.",
+  "exampleCorrect": "The aurora is a stunning phenomenon, just one of many atmospheric phenomena that draw scientists to the far north each winter.",
+  "exampleMisused": "Social media addiction is a troubling phenomena among teenagers today."
+ },
+ {
+  "word": "play it by ear",
+  "partOfSpeech": "idiom",
+  "definition": "To handle a situation as it unfolds, improvising and deciding what to do moment by moment rather than following a fixed plan or set of preparations made in advance.",
+  "commonMisuse": "The idiom is borrowed from musicians who play a tune from memory without sheet music. People sometimes apply it too loosely to mean simply being lazy or unprepared, when it really describes flexible, responsive improvisation.",
+  "exampleCorrect": "We had no itinerary for the weekend in Lisbon, so we decided to play it by ear and follow whatever looked interesting.",
+  "exampleMisused": "Instead of studying for the interview, he shrugged and said he would just play it by ear and hope for the best."
+ },
+ {
+  "word": "plethora",
+  "partOfSpeech": "noun",
+  "definition": "An excessive amount of something, more than is needed or healthy; in older medical use, an unhealthy oversupply of blood.",
+  "commonMisuse": "Routinely used as a fancy way to say 'a lot,' which strips out the overshoot the word originally carried. MW now accepts the neutral 'abundance' sense as standard, but the older flavor of too much survives in careful writing: a plethora of options is usually a problem, not a feature.",
+  "exampleCorrect": "The committee was paralyzed by a plethora of conflicting reports, none of which it had the time or expertise to fairly weigh.",
+  "exampleMisused": "The new food hall offers a plethora of options, from Sichuan noodles to wood-fired pizza, all under one roof."
+ },
+ {
+  "word": "Pollyanna",
+  "partOfSpeech": "noun",
+  "definition": "A person of relentless, often naive optimism who insists on finding something good in every situation, sometimes to the point of ignoring real problems.",
+  "commonMisuse": "It is sometimes used as a neutral compliment for a cheerful person. The term, from the heroine of Eleanor Porter's novel, usually carries a mild edge, suggesting optimism so unshakable it becomes unrealistic.",
+  "exampleCorrect": "Ever the Pollyanna, she greeted the canceled flight by cheerfully declaring it a chance to explore the airport.",
+  "exampleMisused": "He praised his new manager as a Pollyanna, meaning simply that she was friendly and supportive."
+ },
+ {
+  "word": "pore",
+  "partOfSpeech": "verb",
+  "definition": "To pore is to read or study something with sustained, intense concentration, almost always followed by over. To pour is to make a liquid flow in a stream from one container to another.",
+  "commonMisuse": "The mix-up almost always runs one way: writers use pour over when they mean pore over. Studying a document carefully is poring over it; you only pour over something while holding a pitcher. Picture eyes traveling slowly down a page, not water spilling across a counter.",
+  "exampleCorrect": "She pored over the old plot maps for hours while her husband poured coffee and tried not to interrupt.",
+  "exampleMisused": "The analysts spent the weekend pouring over the leaked emails, looking for anything incriminating."
+ },
+ {
+  "word": "precede",
+  "partOfSpeech": "verb",
+  "definition": "To precede is to come before something else in time, order, or position. To proceed is to move forward, continue, or carry on with an action or process.",
+  "commonMisuse": "Same Latin root, different prefixes, opposite directions. To precede is to go before; to proceed is to go forward. An opening act precedes the headliner, and once it ends the concert can proceed. The similar shapes make writers reach for the wrong one in either direction.",
+  "exampleCorrect": "A short film about the playwright's early years preceded the main production, after which the audience proceeded quietly to their seats.",
+  "exampleMisused": "Once the credits ended, the audience preceded straight to the parking garage."
+ },
+ {
+  "word": "precipitate",
+  "partOfSpeech": "verb / adjective",
+  "definition": "Precipitate, as a verb, means to cause something to happen suddenly; as an adjective, it means acting rashly without enough thought. Precipitous means dangerously steep, literally or figuratively.",
+  "commonMisuse": "These cousins both come from the Latin for headlong, but precipitate is about haste while precipitous is about steepness. A precipitate decision is rash; a precipitous decline is a sharp fall. Writers often attach precipitous to hasty actions, or precipitate to cliffs.",
+  "exampleCorrect": "The board's precipitate vote precipitated a precipitous drop in the foundation's stock, all within a single trading afternoon.",
+  "exampleMisused": "The hike ended near a precipitate cliff that dropped almost a thousand feet."
+ },
+ {
+  "word": "premiere",
+  "partOfSpeech": "noun",
+  "definition": "A premiere, with the final E, is the first public showing of a film, play, or show. Premier, without the E, means first in rank or quality, and as a noun is a head of government.",
+  "commonMisuse": "People add the E to the ranking word ('a premiere athlete') because the showbiz spelling looks more polished. Reserve 'premiere' for opening nights. 'Premier' without the E means best, foremost, or a prime minister.",
+  "exampleCorrect": "The director, the country's premier filmmaker, walked the red carpet at the premiere of her long-delayed feature.",
+  "exampleMisused": "The resort bills itself as the premiere destination for winter skiing."
+ },
+ {
+  "word": "proscribe",
+  "partOfSpeech": "verb",
+  "definition": "To proscribe is to prohibit, condemn, or formally forbid something. To prescribe, its near-opposite, is to lay down as a rule or, in medicine, to order the use of a drug or treatment.",
+  "commonMisuse": "These two sound nearly identical but mean almost opposites. Prescribe says do this; proscribe says don't. A doctor who proscribes a drug is forbidding it, which is rarely what the writer meant. The one-letter, one-prefix gap masks the total reversal of meaning.",
+  "exampleCorrect": "Her doctor prescribed a low-dose medication, but the clinic's charter proscribed promoting any brand the staff held stock in.",
+  "exampleMisused": "The new policy prescribes any discussion of last quarter's losses during the investor call."
+ },
+ {
+  "word": "presently",
+  "partOfSpeech": "adverb",
+  "definition": "Traditionally, in a short while or soon; in modern usage, now or at the current moment, the sense that has become dominant.",
+  "commonMisuse": "Once strictly meant soon, but the 'currently' sense has been widespread for so long that MW lists both as standard. The ambiguity is real: 'the manager is presently with a client' can be read as either right now or in a moment. Careful writers pick a clearer word.",
+  "exampleCorrect": "Finish your tea, the carriage will be at the door presently, and the roads after dark are nothing to argue with.",
+  "exampleMisused": "The CFO is presently reviewing the figures and should have a recommendation ready before the board convenes."
+ },
+ {
+  "word": "prevaricate",
+  "partOfSpeech": "verb",
+  "definition": "To prevaricate is to stray from the truth, speaking evasively or misleadingly. To procrastinate is to delay or postpone something on purpose, usually out of reluctance or distraction.",
+  "commonMisuse": "Both are long Latinate pr- verbs, which is most of why they get swapped, but one is about lying and the other about delay. A prevaricator deceives; a procrastinator simply puts things off. Saying he prevaricated on the deadline confuses dishonesty with foot-dragging.",
+  "exampleCorrect": "She procrastinated on the report for weeks, then prevaricated to her boss about why it still wasn't finished.",
+  "exampleMisused": "She kept prevaricating about scheduling the dentist appointment, putting it off week after week."
+ },
+ {
+  "word": "principal",
+  "partOfSpeech": "adjective / noun",
+  "definition": "Principal means main or most important, or names a person or sum — the head of a school, the lead in a deal, the original amount of a loan. Principle is always a noun: a fundamental rule or belief.",
+  "commonMisuse": "Principle is always an idea; principal points to a person or amount, or means chief. If you can swap in idea, you want principle; if not, principal. A handy mnemonic: the principal of your school is your pal. The phrase on principle is the one most often misspelled.",
+  "exampleCorrect": "Her principal objection was a matter of principle: she refused, on principle, to sign anything she could not read in full.",
+  "exampleMisused": "The high school principle sent a long email home about the new phone policy."
+ },
+ {
+  "word": "supine",
+  "partOfSpeech": "adjective",
+  "definition": "Supine means lying on the back, face up; figuratively it can also mean passive or unresisting. Prone, its opposite, means lying face down, with the front of the body toward the ground.",
+  "commonMisuse": "In medical, yoga, and forensic contexts the difference is the whole point: prone is on the stomach, supine is on the back. Writers who only half-remember the pair often use prone for someone sprawled face up. A patient supine on the table is staring at the ceiling, not the floor.",
+  "exampleCorrect": "The therapist had her lie prone for the back massage, then turn supine so he could examine her shoulder.",
+  "exampleMisused": "He fell asleep on the couch in a prone position, staring up at the ceiling fan."
+ },
+ {
+  "word": "pronunciation",
+  "partOfSpeech": "noun",
+  "definition": "The way a word is spoken, or the act of producing the sounds of speech.",
+  "commonMisuse": "People spell it 'pronounciation', importing the O from the verb 'pronounce'. The noun drops that O: it is pro-nun-ci-a-tion. The verb keeps the 'noun' sound, but the noun shifts to 'nun', which trips up even confident spellers.",
+  "exampleCorrect": "Her French was fluent, but a slight flaw in her pronunciation of one vowel still marked her as a non-native speaker.",
+  "exampleMisused": "The teacher corrected my pronounciation of the new vocabulary words."
+ },
+ {
+  "word": "prophesy",
+  "partOfSpeech": "verb",
+  "definition": "Prophesy, a verb, is the act of predicting or foretelling. Prophecy, a noun, is the prediction itself — what is foretold. The s form is the doing; the c form is the thing.",
+  "commonMisuse": "One letter and one part of speech apart, the two are constantly swapped. The pronunciation differs as a clue: prophecy ends in see, prophesy ends in sigh. Prophets prophesy a prophecy. Writers most often use prophecy where the verb prophesy belongs.",
+  "exampleCorrect": "The temple oracle would prophesy each spring, and one ancient prophecy still hung, unfulfilled, over the harvest.",
+  "exampleMisused": "She would often prophecy that the company's expansion plans would end in tears."
+ },
+ {
+  "word": "prostrate",
+  "partOfSpeech": "adjective",
+  "definition": "Prostrate, with an extra R, means lying face down, or physically or emotionally overcome and helpless. The prostate, its near-twin, is a gland in the male reproductive system.",
+  "commonMisuse": "People insert an extra R and say 'prostrate cancer' or 'prostrate exam'. The gland is prostate, with no R after the T. Conversely, someone overwhelmed is prostrate, lying flat, not 'prostate' with grief.",
+  "exampleCorrect": "After his prostate screening came back clear, he was so relieved he nearly collapsed, prostrate with gratitude, onto the waiting room couch.",
+  "exampleMisused": "His father is scheduled for a prostrate exam next week."
+ },
+ {
+  "word": "Pyrrhic victory",
+  "partOfSpeech": "noun",
+  "definition": "A success won at a cost so ruinous to the victor that the win is scarcely worthwhile, leaving the winner nearly as damaged as the defeated side.",
+  "commonMisuse": "People often apply it to any hard-fought or narrow win. Properly, a Pyrrhic victory is one whose losses are so devastating that it amounts almost to a defeat, named for King Pyrrhus's crippling battlefield triumphs.",
+  "exampleCorrect": "The startup won the patent lawsuit, but the legal fees bankrupted it, making the verdict a Pyrrhic victory.",
+  "exampleMisused": "After a tense final set, she called her three-hour tennis win a Pyrrhic victory because she was tired."
+ },
+ {
+  "word": "quantum",
+  "partOfSpeech": "noun",
+  "definition": "In physics, the smallest discrete amount of a physical quantity that can exist, such as the minimum unit of energy involved in an interaction.",
+  "commonMisuse": "In phrases like 'quantum leap' it is popularly used to mean a huge advance. Ironically, in physics a quantum is the smallest possible unit, so a quantum leap is literally a tiny jump.",
+  "exampleCorrect": "An electron absorbs a quantum of energy and jumps to a higher orbital, the physicist explained at the chalkboard.",
+  "exampleMisused": "The CEO promised the new phone was a quantum leap forward, a giant advance over last year's model."
+ },
+ {
+  "word": "quintessential",
+  "partOfSpeech": "adjective",
+  "definition": "Representing the purest, most typical example of a class or quality; embodying the essential character of something better than any other instance.",
+  "commonMisuse": "Sometimes used to mean 'most extreme' or 'ultimate,' as if it were a fancier version of ultimate. The real sense is closer to 'most typical' or 'most representative.' A quintessential New York deli is the one that captures what a deli is, not the biggest or fanciest one.",
+  "exampleCorrect": "With its tin ceiling and counter seats, the diner is the quintessential roadside stop, almost a museum piece of a vanishing kind.",
+  "exampleMisused": "Climbing the north face in winter without ropes is the quintessential test of how far an alpinist will push themselves."
+ },
+ {
+  "word": "quixotic",
+  "partOfSpeech": "adjective",
+  "definition": "Marked by lofty but unrealistic idealism, pursuing noble visions in a way that is impractical, romantic, and likely to end in failure despite sincere good intentions.",
+  "commonMisuse": "It is sometimes used loosely to mean merely whimsical or unpredictable. Properly, quixotic, from Cervantes's Don Quixote, describes idealism so impractical that it ignores reality in chasing grand ideals.",
+  "exampleCorrect": "His quixotic plan to end city poverty single-handedly with one charity bake sale was doomed but heartfelt.",
+  "exampleMisused": "The designer's quixotic taste in colors made the office feel cheerfully unpredictable."
+ },
+ {
+  "word": "rack one's brain",
+  "partOfSpeech": "idiom",
+  "definition": "To strain mentally and search hard through one's memory or thoughts. The image is the rack, a medieval torture device that stretched the body, so the mind is being painfully stretched for an answer.",
+  "commonMisuse": "Many people write \"wrack one's brain.\" \"Wrack\" is a genuine but rare word tied to \"wreck\" and ruin, and because thinking hard feels destructive, writers reach for it. Most usage guides treat \"rack\" as the standard, correct form.",
+  "exampleCorrect": "I racked my brain for the name of the hotel where we stayed in Lisbon, but it simply would not come back to me.",
+  "exampleMisused": "She wracked her brain trying to remember where she'd left the spare key."
+ },
+ {
+  "word": "ravish",
+  "partOfSpeech": "verb",
+  "definition": "To ravish is to carry off by force or, more commonly today, to fill someone with intense delight or rapture. To ravage, its near-twin, is to inflict severe, sustained destruction, leaving something laid waste.",
+  "commonMisuse": "They share a Latin root but pull opposite ways: ravage is destructive, ravish (in modern use) is enchanting. A drought ravages the countryside; a symphony ravishes its listeners. Confusing them can produce unintentionally lurid sentences about hurricanes ravishing the coast.",
+  "exampleCorrect": "Wildfires continued to ravage the canyon, even as the sunsets they produced ravished every photographer on the ridge.",
+  "exampleMisused": "Hurricane winds threatened to ravish the coastline, the anchor reported, when he meant ravage."
+ },
+ {
+  "word": "raze",
+  "partOfSpeech": "verb",
+  "definition": "To raze is to tear something down to the ground, leveling it completely — the verb of demolition crews and bulldozers. To raise is the opposite: to lift up, build, or elevate.",
+  "commonMisuse": "Raze and raise are pronounced identically, so the confusion is usually visual — a reader meets the unfamiliar raze in print and assumes a typo. But the z reverses everything: you raze a building to flatten it, you raise one to construct it.",
+  "exampleCorrect": "The city voted to raze the abandoned mill on the riverbank and raise a public library in its place.",
+  "exampleMisused": "Developers plan to raise the old warehouse next month, the article said, when it was scheduled to be razed."
+ },
+ {
+  "word": "red herring",
+  "partOfSpeech": "noun",
+  "definition": "Something introduced into a discussion or story to pull attention away from what actually matters. The name comes from the strong-smelling smoked fish supposedly used to throw hunting dogs off a scent.",
+  "commonMisuse": "Red herring isn't just any false lead; it's a distraction, usually a deliberate one, from the real issue. People sometimes use it for anything that turns out to be wrong, but a guess that fails isn't a red herring. A red herring is laid down to mislead.",
+  "exampleCorrect": "The missing watch turned out to be a red herring, planted by the killer to send the inspector chasing the wrong suspect.",
+  "exampleMisused": "She called the broken streetlight a red herring in the case, though no one had been trying to draw attention to it."
+ },
+ {
+  "word": "redundant acronyms",
+  "partOfSpeech": "phrase",
+  "definition": "Phrases like PIN number, ATM machine, HIV virus, ISBN number, and LCD display repeat a word already inside the acronym, since the final letter already stands for number, machine, virus, or display. True fact and tuna fish are similar redundancies.",
+  "commonMisuse": "Because most speakers don't mentally unpack an acronym, they tack on a clarifying noun the abbreviation already contains — PIN number expands to personal identification number number. It feels natural and harmless in speech, but careful writing trims the extra word.",
+  "exampleCorrect": "At the checkout she entered her PIN, then walked to the ATM in the lobby to withdraw cash for the weekend.",
+  "exampleMisused": "He stood at the ATM machine muttering that he had forgotten his PIN number again."
+ },
+ {
+  "word": "rebut",
+  "partOfSpeech": "verb",
+  "definition": "To rebut a claim is to argue against it or offer an opposing case, without necessarily disproving it. To refute a claim, by contrast, is to prove it false or wrong with evidence and argument.",
+  "commonMisuse": "People use 'refute' to mean merely deny or contest: 'the senator refuted the allegations'. But refuting requires actually proving the point false. If someone simply pushes back without proof, they have rebutted or denied, not refuted.",
+  "exampleCorrect": "The lab results refuted the rumor outright, though the spokesperson had earlier tried only to rebut it with carefully worded statements.",
+  "exampleMisused": "The actor refuted the tabloid story by saying it was completely untrue."
+ },
+ {
+  "word": "regretful",
+  "partOfSpeech": "adjective",
+  "definition": "Regretful describes a person who feels sorrow over something done or undone — an internal emotional state. Regrettable describes a situation, outcome, or action unfortunate enough to deserve being regretted.",
+  "commonMisuse": "People are regretful; circumstances are regrettable. Writers often reach for regretful when they mean regrettable, attaching the feeling to a thing that cannot feel anything — calling a vote a regretful decision when the voters felt no remorse.",
+  "exampleCorrect": "She sounded genuinely regretful on the voicemail, calling the harsh words she had thrown across the kitchen a regrettable mistake.",
+  "exampleMisused": "The newspaper called the council's vote a regretful decision, though the council itself felt no remorse."
+ },
+ {
+  "word": "rein",
+  "partOfSpeech": "noun",
+  "definition": "A rein is the leather strap used to guide and check a horse, and by extension any means of control or restraint. A reign is the period or act of a monarch's rule, or any dominant tenure.",
+  "commonMisuse": "You rein in a horse or a budget; a monarch reigns over a country. The g in reign matches regal, sovereign, and government — all words about ruling. The classic slip is free reign, which should always be free rein, a horse given slack in the straps.",
+  "exampleCorrect": "During the queen's long reign, her stewards kept a tight rein on the household budget right down to the candle wax.",
+  "exampleMisused": "The new CEO gave her marketing team free reign to redesign the brand."
+ },
+ {
+  "word": "restive",
+  "partOfSpeech": "adjective",
+  "definition": "Stubbornly resisting control or direction, like a horse that refuses to move forward. By extension, also marked by impatience or uneasiness in a person or crowd.",
+  "commonMisuse": "The trickier confusion is internal to the word itself. The original sense was 'balky' — refusing to budge — but modern usage has drifted toward 'fidgety' or 'restless,' nearly the opposite. Both senses now appear in dictionaries, but the older meaning can catch readers off guard.",
+  "exampleCorrect": "The mare grew restive at the starting gate, planting her hooves and refusing every coaxing word from the jockey.",
+  "exampleMisused": "The audience grew restive during the third hour, shifting in their seats and checking their phones impatiently."
+ },
+ {
+  "word": "reticent",
+  "partOfSpeech": "adjective",
+  "definition": "Reticent means reserved, quiet, or unwilling to speak freely. Reluctant means unwilling or hesitant to do something of any kind.",
+  "commonMisuse": "People use 'reticent' as a fancier word for reluctant: 'reticent to sign the lease' or 'reticent to travel'. Strictly, reticence is about holding back speech. If no silence or reserve is involved, 'reluctant' is the word you want.",
+  "exampleCorrect": "Normally reticent about his private life, the author was nonetheless reluctant to cancel the interview and disappoint his readers.",
+  "exampleMisused": "She was reticent to lend him the car after his last accident."
+ },
+ {
+  "word": "rife with",
+  "partOfSpeech": "phrase",
+  "definition": "Full of or abounding in something, almost always something unwelcome such as errors, rumors, or disease. \"Rife\" means widespread, prevalent, or occurring in great numbers.",
+  "commonMisuse": "People write \"ripe with,\" since \"ripe\" is a common word and \"rife\" is not, and the two sound very close. \"Ripe\" suggests something full and ready, so the swap feels meaningful even though it loses the negative sense \"rife\" carries.",
+  "exampleCorrect": "The early draft of the contract was rife with ambiguities that the company's lawyers spent a week untangling.",
+  "exampleMisused": "The investigation found the agency was ripe with corruption and mismanagement."
+ },
+ {
+  "word": "rite of passage",
+  "partOfSpeech": "noun",
+  "definition": "A ceremony, event, or experience that formally marks an important transition in someone's life, such as moving from childhood into adulthood or from one social status to another.",
+  "commonMisuse": "It is frequently miswritten as 'right of passage,' as though it described a legal entitlement to travel through somewhere. The correct word is 'rite,' meaning a ritual or ceremony, which has nothing to do with permission or rights.",
+  "exampleCorrect": "For the village teenagers, the solo overnight hike into the mountains was a long-standing rite of passage into adulthood.",
+  "exampleMisused": "She wrote in her essay that getting a first apartment was an important right of passage for any young person."
+ },
+ {
+  "word": "burglary",
+  "partOfSpeech": "noun",
+  "definition": "Burglary is unlawfully entering a building intending to commit a crime inside, whether or not anyone is present. Robbery, often confused with it, is unlawfully taking property directly from a person by force or threat of violence, so confrontation is essential.",
+  "commonMisuse": "People use the two interchangeably, but the legal line is sharp. Robbery requires a victim confronted with force; an empty house cannot be robbed, only burglarized. Coming home to a ransacked house is a burglary, even though everyday speech calls it being robbed.",
+  "exampleCorrect": "The masked man committed robbery at the teller's window downtown, then drove home to a house that had suffered a burglary while he was out.",
+  "exampleMisused": "She reported a robbery after returning from vacation to find her empty home broken into and ransacked."
+ },
+ {
+  "word": "rudimentary",
+  "partOfSpeech": "adjective",
+  "definition": "Existing in only a basic, undeveloped, or incomplete form; belonging to an early or primitive stage of something's development.",
+  "commonMisuse": "Reached for as an impressive synonym for 'fundamental' or 'essential' — 'a rudimentary principle of the theory.' Merriam-Webster does list 'fundamental' as a sense, but in practice the word almost always signals that something is minimal, crude, or only half-formed. Calling your grasp of a subject 'rudimentary' says you barely know it, not that you command the basics.",
+  "exampleCorrect": "After a month in Lisbon he had only a rudimentary command of Portuguese — enough to order dinner, but not to follow the news.",
+  "exampleMisused": "Decades of settled law rest on this rudimentary principle of fairness — the bedrock the whole system is built on."
+ },
+ {
+  "word": "scapegoat",
+  "partOfSpeech": "noun",
+  "definition": "A person or group unfairly blamed for the mistakes or wrongdoing of others. It comes from a biblical ritual in which a goat symbolically carried away the community's sins into the wilderness.",
+  "commonMisuse": "Many people hear \"escape goat,\" which seems to make sense: the blamed party lets the real culprits escape consequences. But the word is \"scape,\" an old shortening of \"escape,\" fused to \"goat.\" The modern ear simply restores the missing syllable it expects to hear.",
+  "exampleCorrect": "When the project collapsed, management made the junior analyst the scapegoat rather than admitting their own budgeting failures.",
+  "exampleMisused": "They needed an escape goat, so they blamed the new guy for the whole mess."
+ },
+ {
+  "word": "scientific theory",
+  "partOfSpeech": "noun",
+  "definition": "A well-tested explanatory framework supported by extensive evidence, used to make predictions and organize knowledge. It is not a hunch or guess but a structure that has survived repeated attempts to disprove it.",
+  "commonMisuse": "In everyday speech a theory is closer to a guess: I have a theory about why he was late. In science the word means something stronger, on the order of evolution by natural selection or general relativity. Dismissing one of those as just a theory mixes the two senses.",
+  "exampleCorrect": "Plate tectonics is a scientific theory backed by decades of evidence from earthquakes, ocean trenches, and fossil records on separated continents.",
+  "exampleMisused": "He waved off the climate data, saying global warming was just a scientific theory and therefore not really settled."
+ },
+ {
+  "word": "scot-free",
+  "partOfSpeech": "adjective/adverb",
+  "definition": "Completely free from punishment, obligation, or harm. The 'scot' was a medieval tax or assessment, so to go scot-free originally meant to escape one's share of the bill.",
+  "commonMisuse": "Scot-free sometimes appears as 'scott-free,' as though named after someone called Scott. The 'scot' here has nothing to do with Scotland or anyone's first name; it refers to a tax that medieval townspeople owed. Going scot-free meant slipping out without paying it.",
+  "exampleCorrect": "Two of the defendants accepted plea deals, but the ringleader somehow walked away scot-free.",
+  "exampleMisused": "He got off scott-free after the audit, the column reported, when scot-free was the proper spelling."
+ },
+ {
+  "word": "segue",
+  "partOfSpeech": "noun, verb",
+  "definition": "A smooth, uninterrupted transition from one thing to another, especially in conversation, music, or film. Pronounced SEG-way, it comes from Italian for 'follows'.",
+  "commonMisuse": "People spell it 'segway', borrowing the look of the two-wheeled Segway scooter, whose brand name was deliberately built on the word. The pronunciation is right but the spelling is wrong, and writing 'segway' in an email reverses the joke entirely.",
+  "exampleCorrect": "She handled the awkward topic change gracefully, using a quick anecdote about traffic as a segue into the budget discussion nobody wanted.",
+  "exampleMisused": "And that's a nice segway into our next slide about the quarterly numbers."
+ },
+ {
+  "word": "sensuous",
+  "partOfSpeech": "adjective",
+  "definition": "Sensuous appeals to the senses through beauty, art, or fine experience, without bodily implication. Sensual, often used in its place, relates to gratification of the physical, bodily senses, often with sexual or indulgent connotations.",
+  "commonMisuse": "Milton coined sensuous precisely to discuss the senses without the sexual baggage of sensual. Many writers now use them interchangeably, but calling a cathedral's stained glass or a violin solo sensual instead of sensuous can carry an unintended innuendo.",
+  "exampleCorrect": "Critics praised the painter's sensuous use of light, while noting the sensual heat of the bathhouse scenes she lingered over.",
+  "exampleMisused": "The brochure described the cathedral's stained glass as sensual, when sensuous would have avoided the innuendo."
+ },
+ {
+  "word": "set foot",
+  "partOfSpeech": "idiom",
+  "definition": "To enter or arrive at a place, often used to mark a notable first or last visit. You can set foot in a country for the first time or vow never to set foot in a restaurant again.",
+  "commonMisuse": "Many writers say or type 'step foot' instead of set foot. Traditional usage favors set foot, but step foot has been around for centuries and now appears in Merriam-Webster's example sentences without a usage warning. Both forms are widely heard, though set foot remains the more accepted choice in formal writing.",
+  "exampleCorrect": "She had not set foot in the old farmhouse since her mother's funeral nearly fifteen years earlier.",
+  "exampleMisused": "I'll never step foot in that diner again, he muttered, using the variant that some readers will still flag."
+ },
+ {
+  "word": "sherbet",
+  "partOfSpeech": "noun",
+  "definition": "A frozen dessert made from fruit juice or puree with a little milk or cream, lighter than ice cream and tangier than sorbet. It is spelled and said with one r: SHER-bet.",
+  "commonMisuse": "People say and write \"sherbert,\" inserting a second r. The extra r mirrors the rhythm of words like \"Herbert\" and feels balanced to the mouth, so the doubled sound spreads even though only the first r belongs.",
+  "exampleCorrect": "On the hottest afternoon of August, the diner served scoops of rainbow sherbet in chilled metal bowls.",
+  "exampleMisused": "Could I get a scoop of orange sherbert in a waffle cone?"
+ },
+ {
+  "word": "shibboleth",
+  "partOfSpeech": "noun",
+  "definition": "A word, phrase, or custom that distinguishes members of a group from outsiders. The term comes from a Biblical episode where the pronunciation of one Hebrew word betrayed enemy soldiers trying to pass undetected.",
+  "commonMisuse": "Shibboleth has a second, related sense: an empty slogan or worn-out doctrine repeated more from habit than conviction. The two meanings sit close together, so writers sometimes use shibboleth simply to mean cliche, missing the original idea of a marker that identifies who belongs.",
+  "exampleCorrect": "Pronouncing the town's name correctly was a small shibboleth, instantly marking locals apart from weekend visitors.",
+  "exampleMisused": "He dismissed her advice as the same old shibboleth, meaning only that he had heard it many times before."
+ },
+ {
+  "word": "shoo-in",
+  "partOfSpeech": "noun",
+  "definition": "Someone or something certain to win, with the implication that the victory will come easily. The term comes from horse racing slang for a horse 'shooed' across the finish line in a fixed race.",
+  "commonMisuse": "Shoo-in often gets written as 'shoe-in,' which suggests squeezing a foot into a tight loafer. The actual image is shooing — waving an arm to drive a chicken, or a horse, in a particular direction. There is no shoe involved, however much the spelling 'shoe-in' might tempt the eye.",
+  "exampleCorrect": "After her semifinal sweep, she was considered a shoo-in for the gold medal, which is exactly what she took home.",
+  "exampleMisused": "He's a shoe-in for the promotion, everyone says so, the office gossip ran, where shoo-in was needed."
+ },
+ {
+  "word": "short shrift",
+  "partOfSpeech": "idiom",
+  "definition": "Brief and dismissive treatment; little time, attention, or sympathy given to someone or something. \"Shrift\" was the short confession and absolution once granted to a condemned prisoner before execution.",
+  "commonMisuse": "People write \"short shift,\" thinking of a brief work stint. \"Shrift\" is essentially obsolete outside this phrase, and \"shift\" is one consonant away and instantly meaningful, so it quietly takes over the idiom.",
+  "exampleCorrect": "The committee gave the neighborhood's flooding concerns short shrift, spending barely two minutes on them before adjourning.",
+  "exampleMisused": "The report on safety issues got short shift at yesterday's meeting."
+ },
+ {
+  "word": "simplistic",
+  "partOfSpeech": "adjective",
+  "definition": "Treating something as simpler than it actually is, to the point of leaving out important nuance; oversimplified in a misleading way.",
+  "commonMisuse": "Often used as a neutral synonym for simple, but simplistic is reliably pejorative. To call an explanation simplistic is to say it has flattened a complex problem until it no longer reflects reality. Simple can be a virtue; simplistic almost never is.",
+  "exampleCorrect": "His simplistic account of the crash blamed a single trader and ignored the years of regulatory drift that made the collapse inevitable.",
+  "exampleMisused": "I love the simplistic design of the new kitchen, just white tile and oak shelves and nothing else cluttering the walls."
+ },
+ {
+  "word": "Sisyphean",
+  "partOfSpeech": "adjective",
+  "definition": "Describing labor that is endless, repetitive, and ultimately futile, demanding continual effort that never reaches completion because progress is always undone.",
+  "commonMisuse": "People often use it simply to mean 'very hard.' Properly, Sisyphean refers to the myth of Sisyphus endlessly rolling a boulder uphill only to watch it roll back, so the key idea is futility, not mere difficulty.",
+  "exampleCorrect": "Clearing the inbox felt Sisyphean: for every message she answered, three new ones immediately appeared.",
+  "exampleMisused": "He described the steep uphill bike ride as Sisyphean, though he reached the summit and was done."
+ },
+ {
+  "word": "sleight of hand",
+  "partOfSpeech": "noun",
+  "definition": "Skillful manual trickery, especially the deft, deceptive movements a magician uses; by extension, any cunning deception or clever misdirection. \"Sleight\" is an old word meaning cunning, dexterity, or craft.",
+  "commonMisuse": "People routinely write \"slight of hand,\" because \"slight\" is a familiar everyday word while \"sleight\" is nearly extinct outside this phrase. The two are pronounced identically, so the mistake never surfaces in speech and only appears, jarringly, in writing.",
+  "exampleCorrect": "Through sheer sleight of hand, the street magician made the borrowed wedding ring vanish and reappear inside a sealed lemon.",
+  "exampleMisused": "The accountant moved the funds with a quick slight of hand nobody noticed."
+ },
+ {
+  "word": "sneak peek",
+  "partOfSpeech": "noun",
+  "definition": "A quick, often unofficial advance look at something not yet released or revealed, such as a film, product, or document. \"Peek\" means a brief or furtive glance.",
+  "commonMisuse": "Writers constantly type \"sneak peak,\" swapping the homophone for a mountain summit. \"Peek\" and \"peak\" sound identical, and \"peak\" is the more common spelling, so autopilot and spellcheck both happily wave the wrong word through.",
+  "exampleCorrect": "The studio released a thirty-second sneak peek of the finale, just enough footage to ignite fan theories online.",
+  "exampleMisused": "Here is a sneak peak at our new spring collection, available next week."
+ },
+ {
+  "word": "spartan",
+  "partOfSpeech": "adjective",
+  "definition": "Marked by strict self-discipline, austerity, and the deliberate absence of comfort or luxury, in the manner attributed to the rigorously trained citizens of ancient Sparta.",
+  "commonMisuse": "It is sometimes used loosely to mean simply minimal or sparsely decorated. The word properly carries a sense of disciplined hardship and endurance, not just an uncluttered aesthetic.",
+  "exampleCorrect": "The monks lived in spartan cells with a straw mat, a single candle, and no heat through winter.",
+  "exampleMisused": "She called the chic, half-empty loft spartan because it had only one stylish sofa."
+ },
+ {
+  "word": "spitting image",
+  "partOfSpeech": "noun/idiom",
+  "definition": "Someone or something that looks strikingly like someone or something else, especially in family resemblance. A child can be the spitting image of a parent down to the slope of the chin.",
+  "commonMisuse": "The phrase began life as 'spit and image' or 'spit-image,' suggesting someone so like the original they might have been spat out of them. 'Spitting image' is now the dominant form, and dictionaries treat it as standard. The older variants survive in some regional and literary writing.",
+  "exampleCorrect": "Their youngest son is the spitting image of his grandfather, right down to the lopsided grin in the wedding photos.",
+  "exampleMisused": "She was the spit and image of her great-aunt, the obituary said, using a much older form that few readers recognize today."
+ },
+ {
+  "word": "statute of limitations",
+  "partOfSpeech": "noun",
+  "definition": "A law that sets the maximum time after an event during which legal action can be taken. Once the statute expires, the offense usually cannot be prosecuted or sued over.",
+  "commonMisuse": "In speech, statute of limitations often gets heard or typed as 'statue of limitations,' as if it referred to a piece of sculpture. Statute means a written law, while statue means a carved figure. The two words sound nearly identical, and the legal sense is unfamiliar enough that the swap is common.",
+  "exampleCorrect": "The prosecutor explained that the statute of limitations for the fraud had run out exactly nine days before the warrant arrived.",
+  "exampleMisused": "I think the statue of limitations protects him at this point, she said over coffee, where statute was the proper word."
+ },
+ {
+  "word": "strait-laced",
+  "partOfSpeech": "adjective",
+  "definition": "Excessively strict, proper, or morally rigid in attitude and behavior. \"Strait\" means narrow or tight, so the image is of a corset laced uncomfortably tight, allowing no slack.",
+  "commonMisuse": "People write \"straight-laced,\" assuming a connection to being upright or \"straight\" in conduct. \"Strait\" and \"straight\" are homophones, and \"straight\" is far more common, so the familiar spelling overwrites the older \"strait\" meaning narrow.",
+  "exampleCorrect": "Her strait-laced uncle disapproved of the rehearsal dinner toast and left before the second round of jokes.",
+  "exampleMisused": "My new boss is so straight-laced he won't even let us play music in the office."
+ },
+ {
+  "word": "straw man",
+  "partOfSpeech": "noun",
+  "definition": "A weakened or distorted version of someone's argument, set up specifically because it's easier to knock down than the real one. The image is of attacking a scarecrow instead of a real opponent.",
+  "commonMisuse": "Straw man is sometimes used for any argument you disagree with, which dilutes it. The fallacy specifically involves misrepresenting the other side's position. If you accurately restate their view and then refute it, that's just an argument; it only becomes a straw man when you've reshaped their claim first.",
+  "exampleCorrect": "Her opponent built a straw man, pretending she had called for banning all cars rather than for expanding bike lanes.",
+  "exampleMisused": "He dismissed every critique as a straw man, even the ones that quoted his own position back to him verbatim."
+ },
+ {
+  "word": "supposedly",
+  "partOfSpeech": "adverb",
+  "definition": "According to what is said or believed, often with a hint of doubt. It marks a claim as second-hand information rather than something the speaker is willing to vouch for.",
+  "commonMisuse": "Supposedly often gets pronounced or written as 'supposably.' Merriam-Webster actually recognizes 'supposably' as a real word meaning 'as may be supposed' — possible to suppose — which is subtly different from supposedly's 'as is supposed.' In practice almost everyone reaching for 'supposably' actually wants supposedly.",
+  "exampleCorrect": "He supposedly trained with a Michelin chef in Lyon, though no one at the restaurant has ever confirmed the story.",
+  "exampleMisused": "She's supposably moving to Berlin in the fall, he said, where supposedly was almost certainly the intended word."
+ },
+ {
+  "word": "take for granted",
+  "partOfSpeech": "idiom",
+  "definition": "To assume something is true or will always be available without questioning it, often failing to appreciate its value. \"Granted\" here means accepted or conceded as a given.",
+  "commonMisuse": "People write \"take for granite,\" because \"granted\" is unstressed and swallowed in speech, while \"granite\" is a real, concrete word. The rock even suggests something solid and dependable, which makes the wrong version feel oddly logical.",
+  "exampleCorrect": "Living a block from the ocean, we took the sunset walks for granted until we moved inland and missed them terribly.",
+  "exampleMisused": "Don't take your health for granite; you never know what tomorrow brings."
+ },
+ {
+  "word": "tautology",
+  "partOfSpeech": "noun",
+  "definition": "A statement that says the same thing twice in different words, or in logic, a statement that is true purely by its form. Free gift is a tautology; so is it will either rain or not rain tomorrow.",
+  "commonMisuse": "Tautology gets confused with redundancy in casual use, and the two do overlap. In logic, though, a tautology has a precise sense: a statement true under every interpretation. The everyday meaning is looser, covering any phrase that doubles back on itself.",
+  "exampleCorrect": "The phrase advance planning is a tautology, since planning by definition happens in advance of the thing planned.",
+  "exampleMisused": "He accused her of tautology for repeating her main point, though restating an argument and committing one are not the same thing."
+ },
+ {
+  "word": "tenet",
+  "partOfSpeech": "noun",
+  "definition": "A tenet is a principle, doctrine, or belief held by a person or group. A tenant, its near-twin, is a person who rents or occupies property.",
+  "commonMisuse": "The words look and sound nearly alike, so people write 'a central tenant of the philosophy' when they mean tenet. The mix-up feels safe because 'tenant' is the far more common word, so it springs to mind first.",
+  "exampleCorrect": "Nonviolence is a core tenet of the movement, one the new tenants of the community house pledged to uphold.",
+  "exampleMisused": "Honesty is the main tenant of our company culture."
+ },
+ {
+  "word": "the exception that proves the rule",
+  "partOfSpeech": "idiom",
+  "definition": "An expression derived from a Latin legal maxim, originally meaning that the existence of a stated exception implies a general rule applying to all cases not specifically excepted.",
+  "commonMisuse": "It is widely used to suggest, illogically, that an exception somehow confirms a rule it actually contradicts. The original sense uses 'prove' to mean 'test,' or notes that naming an exception implies an unstated rule.",
+  "exampleCorrect": "A sign reading 'free parking on Sundays' implies paid parking on other days, the exception that proves the rule.",
+  "exampleMisused": "He's always late, but he was punctual once, which I guess is the exception that proves the rule."
+ },
+ {
+  "word": "the proof of the pudding is in the eating",
+  "partOfSpeech": "proverb",
+  "definition": "The true worth or quality of something can only be judged by trying it out. Plans and promises mean little; the real test is whether the thing actually works when you use it.",
+  "commonMisuse": "The proverb commonly gets shortened to 'the proof is in the pudding,' which has become so widespread that dictionaries now list it alongside the full version. The original makes more logical sense — the test is in the eating — but both forms are now widely accepted in standard usage.",
+  "exampleCorrect": "The startup's pitch deck looked great, but the proof of the pudding is in the eating, and their first product launch flopped.",
+  "exampleMisused": "The proof is in the pudding, the analyst declared, using the now-common short form rather than the original full proverb."
+ },
+ {
+  "word": "throes",
+  "partOfSpeech": "noun (plural)",
+  "definition": "Hard, painful struggles or violent spasms, often used figuratively for a difficult transition. Death throes, the throes of revolution, the throes of grief — all suggest intense, wrenching effort.",
+  "commonMisuse": "Throes routinely gets typed as 'throws,' the more familiar word meaning to toss. They sound identical but mean entirely different things. The throes of grief are agonies; the throws of grief would be hurling objects across the room. The h before the o is the visual giveaway.",
+  "exampleCorrect": "The newspaper was in the throes of its third layoff in a year, with whole departments emptying out by Friday.",
+  "exampleMisused": "She was in the throws of a deadline panic, the post read, instead of the correct throes."
+ },
+ {
+  "word": "to the manner born",
+  "partOfSpeech": "idiom",
+  "definition": "Suited from birth or upbringing to a particular role, custom, or way of life. The phrase comes from Hamlet and originally describes someone bred to a tradition rather than someone born into wealth.",
+  "commonMisuse": "Shakespeare's phrase 'to the manner born' (born to the custom) is often heard as 'to the manor born' (born to a grand estate). Merriam-Webster now lists 'to the manor born' as its own entry, accepting both forms. The manner version is the original; the manor version is a centuries-old pun that has become standard in its own right.",
+  "exampleCorrect": "Watching her work the room at her first diplomatic reception, you'd have thought she was to the manner born.",
+  "exampleMisused": "He carries himself like he was to the manor born, the columnist wrote, using the now-accepted variant with its aristocratic flavor."
+ },
+ {
+  "word": "toe the line",
+  "partOfSpeech": "idiom",
+  "definition": "To conform strictly to a rule, standard, or authority. The image comes from runners or soldiers placing their toes exactly on a starting line, neither crossing it nor falling short.",
+  "commonMisuse": "Toe the line often gets typed as 'tow the line,' as though something were being pulled. The original picture is feet at a line, not a rope under tension. Politicians who toe the party line are obeying it; they aren't dragging it anywhere.",
+  "exampleCorrect": "New recruits learn early to toe the line during inspection, with boots polished and beds tight enough to bounce a coin.",
+  "exampleMisused": "He was expected to tow the line in the new administration, the profile read, when toe the line was meant."
+ },
+ {
+  "word": "tongue-in-cheek",
+  "partOfSpeech": "adjective/adverb",
+  "definition": "Said or done with ironic or playful insincerity, as if pressing one's tongue against the cheek to suppress a grin. The remark is not meant to be taken at face value.",
+  "commonMisuse": "Some writers render the phrase as 'tongue and cheek,' which loses the original image. The point is the position — tongue pressed into cheek, the kind of mock-serious face that signals a joke. Without the 'in,' the words become two unrelated body parts.",
+  "exampleCorrect": "His acceptance speech was deliberately tongue-in-cheek, thanking his cat at greater length than the producers who funded the film.",
+  "exampleMisused": "The article was meant to be tongue and cheek, the editor explained, instead of the correct tongue-in-cheek."
+ },
+ {
+  "word": "tortuous",
+  "partOfSpeech": "adjective",
+  "definition": "Tortuous means full of twists, bends, or turns — a winding road, river, or line of reasoning. Torturous means causing or involving torture; painfully unpleasant or difficult to endure.",
+  "commonMisuse": "Tortuous comes from the Latin for twist; torturous from the Latin for torment. A winding mountain road is tortuous; a long dental appointment is torturous. The near-identical spelling tempts writers to call a convoluted argument torturous when they mean tortuous.",
+  "exampleCorrect": "The tortuous mountain road, all hairpins and switchbacks, made the three-hour drive genuinely torturous for everyone prone to carsickness.",
+  "exampleMisused": "The lawyer's closing argument was so torturous that the jury lost the thread."
+ },
+ {
+  "word": "travesty",
+  "partOfSpeech": "noun",
+  "definition": "A grotesque imitation or mocking distortion of something serious; a debased version that makes the original look ridiculous.",
+  "commonMisuse": "Often used loosely as a synonym for tragedy, but the two are not interchangeable. A travesty involves distortion or mockery, not just bad luck. A travesty of justice is a trial so warped it parodies real justice, not merely an unfortunate verdict.",
+  "exampleCorrect": "The closed-door hearing was a travesty of justice, with the defense barred from calling a single witness in three days of proceedings.",
+  "exampleMisused": "Losing the season opener at home in overtime was an absolute travesty for the players and the fans alike."
+ },
+ {
+  "word": "triage",
+  "partOfSpeech": "noun, verb",
+  "definition": "The process of sorting cases by urgency and need so that limited resources go where they matter most, as in an emergency room assigning priority to patients.",
+  "commonMisuse": "People use 'triage' as a stylish synonym for organize, sort, or tidy up: 'let me triage my inbox'. True triage is not mere sorting; it is ranking by urgency under scarcity, deciding what gets help now and what must wait.",
+  "exampleCorrect": "The nurse had to triage a packed waiting room, sending the chest-pain patient ahead of a dozen others with minor injuries.",
+  "exampleMisused": "I spent the morning triaging my closet and folding all the sweaters."
+ },
+ {
+  "word": "venal",
+  "partOfSpeech": "adjective",
+  "definition": "Venal means open to bribery; willing to act dishonestly for money or favors. Venial means forgivable or pardonable, describing a minor fault or sin — in Catholic theology, contrasted with mortal sin.",
+  "commonMisuse": "They look almost alike but come from different roots: venal from venum, sale, and venial from venia, pardon. A venal judge takes bribes; a venial offense is a small misstep. Calling a corruption scandal a venial matter badly understates it.",
+  "exampleCorrect": "The priest treated the boy's stolen cookie as a venial lapse, but the bribe-taking inspector across town was thoroughly venal.",
+  "exampleMisused": "He dismissed the bribery scandal as a venial matter, though the senator's conduct was clearly venal."
+ },
+ {
+  "word": "veracious",
+  "partOfSpeech": "adjective",
+  "definition": "Veracious means truthful, honest, or accurate, sharing a root with veracity and verify. Voracious means having a huge, insatiable appetite — for food, books, knowledge, or anything one consumes.",
+  "commonMisuse": "One letter apart and nearly identical in rhythm, the pair causes endless mix-ups. A veracious witness tells the truth; a voracious reader devours books. Writers most often praise someone as a veracious reader when they mean voracious.",
+  "exampleCorrect": "A voracious reader of trial transcripts, the bookkeeper was also a veracious witness who never once shaded the truth on the stand.",
+  "exampleMisused": "The biographer praised her subject as a veracious reader of nineteenth-century novels."
+ },
+ {
+  "word": "oral",
+  "partOfSpeech": "adjective",
+  "definition": "Oral specifically means spoken aloud rather than written. Verbal, frequently used in its place, relates to words generally, whether spoken or written.",
+  "commonMisuse": "People say 'verbal agreement' to mean an unwritten, spoken one, but a written contract is also verbal, since it uses words. When the point is spoken-not-written, 'oral' is the precise term; 'verbal' merely distinguishes words from gestures or images.",
+  "exampleCorrect": "The deal rested on an oral promise, with no verbal record at all, which made it nearly impossible to enforce later.",
+  "exampleMisused": "We only had a verbal agreement, so there was nothing in writing to prove it."
+ },
+ {
+  "word": "vis-à-vis",
+  "partOfSpeech": "preposition",
+  "definition": "In relation to, or in comparison with; literally 'face-to-face' in French, used to position one thing against another for the sake of comparison or reference.",
+  "commonMisuse": "It is now routinely used simply to mean 'about' or 'with regard to,' a sense dictionaries accept. Its literal French meaning is 'face-to-face,' which it can still carry when describing two parties directly opposite each other.",
+  "exampleCorrect": "At the negotiation table the two diplomats sat vis-a-vis, studying each other across the polished wood.",
+  "exampleMisused": "The consultant rambled about the company's plans vis-a-vis next quarter without explaining anything concrete."
+ },
+ {
+  "word": "vocal cords",
+  "partOfSpeech": "noun (plural)",
+  "definition": "The pair of membranous folds in the larynx that vibrate as air passes through them, producing the sound of the human voice when a person speaks or sings.",
+  "commonMisuse": "Many people write 'vocal chords,' borrowing the spelling of the musical term 'chord.' The anatomical structures are 'cords,' meaning string-like tissues; 'chord' refers to a group of musical notes played together and is unrelated.",
+  "exampleCorrect": "After belting through three encores, the singer rested her vocal cords completely and refused to speak for two full days.",
+  "exampleMisused": "The doctor warned him that years of shouting at games had strained his vocal chords badly."
+ },
+ {
+  "word": "voilà",
+  "partOfSpeech": "interjection",
+  "definition": "A French exclamation meaning 'there it is' or 'there you go', used when revealing or presenting something, as if pulling back a curtain on a finished result.",
+  "commonMisuse": "Because it is borrowed from spoken French, many people only know it by ear and write it as 'wallah' or even 'viola'. 'Wallah' approximates the sound, and 'viola' is a real word (the instrument), which makes the slip feel plausible.",
+  "exampleCorrect": "He whisked away the cloth, and voilà, the restored painting glowed under the gallery lights exactly as the curator had promised.",
+  "exampleMisused": "You just add the eggs, stir for a minute, and wallah, dinner is served."
+ },
+ {
+  "word": "leery",
+  "partOfSpeech": "adjective",
+  "definition": "Leery means distrustful or suspicious, much like wary. Its two look-alikes: wary means cautious or watchful of danger, and weary means tired or worn out.",
+  "commonMisuse": "'Wary' and 'weary' are swapped constantly because they differ by one letter and both describe a guarded mood. People write 'weary of strangers' meaning cautious, when 'weary' actually means exhausted. Leery is the close synonym of wary, not weary.",
+  "exampleCorrect": "Weary from the long flight, she was still wary of the taxi drivers crowding the arrivals gate and leery of their quoted fares.",
+  "exampleMisused": "After being scammed once, he's weary of any deal that sounds too good."
+ },
+ {
+  "word": "whet your appetite",
+  "partOfSpeech": "idiom",
+  "definition": "To stimulate or sharpen a desire for something, whether food, knowledge, or experience. \"Whet\" literally means to sharpen a blade against a stone, as with a whetstone.",
+  "commonMisuse": "People often write \"wet your appetite,\" picturing hunger being moistened or a mouth watering. \"Whet\" is rare outside this phrase and sounds exactly like \"wet,\" so the vivid but wrong image of dampening replaces the original idea of sharpening.",
+  "exampleCorrect": "The chef sent out a single seared scallop to whet our appetite before the eight-course tasting menu began.",
+  "exampleMisused": "That trailer really wet my appetite for the new season."
+ },
+ {
+  "word": "without further ado",
+  "partOfSpeech": "idiom",
+  "definition": "Without any more fuss or delay; right away. 'Ado' is an old noun meaning bother or commotion — the same word that appears in 'Much Ado About Nothing.'",
+  "commonMisuse": "The phrase is often written as 'without further adieu,' borrowing the French word for farewell. The original 'ado' means delay or fuss; 'adieu' means goodbye. The two get conflated because 'adieu' looks more formal, and the phrase tends to introduce something formal, but the right word is the plainer ado.",
+  "exampleCorrect": "Without further ado, the host stepped aside and let the band take the stage.",
+  "exampleMisused": "Without further adieu, please welcome tonight's keynote speaker, the emcee read from the card, instead of ado."
+ },
+ {
+  "word": "wreak havoc",
+  "partOfSpeech": "idiom",
+  "definition": "To bring about great damage, chaos, or disruption. The verb 'wreak' means to inflict or cause, and pairs with havoc to describe destruction unleashed on a target.",
+  "commonMisuse": "The phrase commonly appears as 'wreck havoc,' which seems logical since wrecking and havoc both suggest destruction. But the correct verb is wreak, an older word meaning to inflict. You don't wreck the havoc; you unleash it. The past tense, wreaked, is another spot where writers stumble.",
+  "exampleCorrect": "The unseasonable hailstorm wreaked havoc on the orchard, stripping leaves from trees that had budded just a week earlier.",
+  "exampleMisused": "Cousins arrived for the holidays and proceeded to wreck havoc in the guest room, the host wrote, where wreak was the proper verb."
+ },
+ {
+  "word": "wring one's hands",
+  "partOfSpeech": "idiom",
+  "definition": "To clasp and twist one's hands together as a sign of anxiety, distress, or helpless worry; by extension, to fret openly without taking action. \"Wring\" means to squeeze or twist forcefully.",
+  "commonMisuse": "People write \"ring one's hands,\" dropping the silent \"w.\" \"Wring\" and \"ring\" are homophones, and \"ring\" is the everyday spelling, so the gesture of twisting hands gets recorded with a word that has nothing to do with twisting.",
+  "exampleCorrect": "Parents wrung their hands in the hospital corridor, waiting for any word from the surgeon behind the closed doors.",
+  "exampleMisused": "Investors are ringing their hands over the latest dip in the market."
+ }
+]
