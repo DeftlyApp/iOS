@@ -56,14 +56,6 @@
   "exampleMisused": "We're still measuring how the policy will affect, but the antibiotics definitely effected my stomach last winter."
  },
  {
-  "word": "all of a sudden",
-  "partOfSpeech": "idiom",
-  "definition": "Suddenly; happening without warning or notice. The phrase emphasizes the abruptness of an event, signaling that things changed faster than anyone expected.",
-  "commonMisuse": "The phrase often gets written as 'all of the sudden,' substituting 'the' for the historically standard 'a.' Both forms turn up in print, but dictionaries record 'all of a sudden' as the established idiom, with 'all of the sudden' considered a casual variant rather than the preferred form.",
-  "exampleCorrect": "We were halfway through dessert when all of a sudden the lights cut out across the entire block.",
-  "exampleMisused": "All of the sudden it started pouring rain in the middle of the picnic, the post read, instead of all of a sudden."
- },
- {
   "word": "allude",
   "partOfSpeech": "verb",
   "definition": "Allude means to refer to something indirectly, hinting at it without naming it. Elude means to skillfully avoid being caught, understood, or remembered. One points toward a subject; the other slips away from a pursuer.",
@@ -648,14 +640,6 @@
   "exampleMisused": "Climbing K2 in winter is the epitome of mountaineering, with conditions no other peak in the world can match."
  },
  {
-  "word": "espresso",
-  "partOfSpeech": "noun",
-  "definition": "Strong coffee made by forcing hot water under pressure through finely ground beans. The name is Italian, related to express, meaning made on the spot for the customer.",
-  "commonMisuse": "Many English speakers say and write expresso, presumably by analogy with express. Merriam-Webster lists expresso as a variant, but espresso is the original Italian spelling and the form preferred by coffee professionals and most careful writers.",
-  "exampleCorrect": "She ordered an espresso at the counter and drank it standing, the way she had learned in a tiny cafe in Bologna.",
-  "exampleMisused": "He pointed to the menu and asked for a double expresso, hoping it would carry him through the afternoon flight."
- },
- {
   "word": "et cetera",
   "partOfSpeech": "phrase",
   "definition": "And other unspecified things of the same kind; and so forth, used to indicate that a list continues with similar items. From the Latin meaning 'and the rest.'",
@@ -790,14 +774,6 @@
   "commonMisuse": "Writers add the extra 'e' and write 'forego dessert.' The two have blurred for centuries and dictionaries now tolerate it, but the lean spelling — forgo — is the one for giving something up.",
   "exampleCorrect": "She chose to forgo the bonus, a decision the foregoing minutes had already quietly predicted.",
   "exampleMisused": "He decided to forego his vacation this year, when choosing to do without it is to forgo it."
- },
- {
-  "word": "forte",
-  "partOfSpeech": "noun",
-  "definition": "A person's strong point or area of particular skill. The noun comes from French fort, meaning strong, and traditionally was pronounced as a single syllable, fort.",
-  "commonMisuse": "Most English speakers now say for-tay, borrowing the pronunciation from the unrelated Italian musical term meaning loud. Merriam-Webster treats both pronunciations as standard, though traditionalists still favor the one-syllable French version for the strong-point sense.",
-  "exampleCorrect": "Diplomacy was never her forte; she preferred problems she could solve with a calculator rather than a smile.",
-  "exampleMisused": "He insisted small talk was not his forte, pronouncing it for-tay as he edged away from the cocktail crowd."
  },
  {
   "word": "fortuitous",
@@ -1974,5 +1950,53 @@
   "commonMisuse": "People write \"ring one's hands,\" dropping the silent \"w.\" \"Wring\" and \"ring\" are homophones, and \"ring\" is the everyday spelling, so the gesture of twisting hands gets recorded with a word that has nothing to do with twisting.",
   "exampleCorrect": "Parents wrung their hands in the hospital corridor, waiting for any word from the surgeon behind the closed doors.",
   "exampleMisused": "Investors are ringing their hands over the latest dip in the market."
+ },
+ {
+  "word": "rein in",
+  "partOfSpeech": "phrasal verb",
+  "definition": "To bring something under control or restrain it, from the image of pulling back on a horse's reins to slow it. Used for spending, ambition, behavior, language, or anything that has run loose.",
+  "commonMisuse": "Constantly written as 'reign in,' from a mix-up with 'reign' meaning to rule. But you do not reign in a budget; you pull on its reins. The same picture that fixes 'free rein' fixes this one: any time the meaning is restraint or control, it is rein, with no g.",
+  "exampleCorrect": "After three quarters of overspending, the finance committee finally moved to rein in the marketing budget.",
+  "exampleMisused": "The coach has been trying to reign in his star player's antics on social media all season."
+ },
+ {
+  "word": "latter",
+  "partOfSpeech": "adjective / noun",
+  "definition": "The second of two things just mentioned. The companion of 'former' is 'latter': the former is the first item, the latter is the second.",
+  "commonMisuse": "Latter properly applies only when exactly two items have been named. Writers regularly use it for the last of three, four, or more, where 'the last' or naming the item directly would be clearer. It is also mixed up with 'later,' a different word meaning subsequent in time.",
+  "exampleCorrect": "She narrowed the candidates down to Diana and Marcus and ultimately hired the latter for the supply-chain role.",
+  "exampleMisused": "Of the six finalists, she chose the latter, leaving readers to wonder which one she meant."
+ },
+ {
+  "word": "canonical",
+  "partOfSpeech": "adjective",
+  "definition": "Belonging to an accepted body of works, rules, or forms; treated as authoritative or standard within a tradition. The literary canon, church canon law, and the canonical form of an equation all share this sense of being the recognized, definitive version.",
+  "commonMisuse": "Canonical is often reached for as a fancy synonym for 'official' or 'best,' shorn of its tie to a canon. A canonical text is not merely an important one; it is one explicitly admitted to the recognized body of works. Anything outside that body, however good, is not yet canonical.",
+  "exampleCorrect": "Three of her early essays are now canonical in the field, taught in every introductory course on the subject.",
+  "exampleMisused": "He insisted his new productivity method was the canonical way to run a startup, having invented it the previous month."
+ },
+ {
+  "word": "pedantic",
+  "partOfSpeech": "adjective",
+  "definition": "Excessively concerned with minor details, formal rules, or the display of one's learning, in a way that bores or annoys others. The word is almost always pejorative, marking the trait as petty rather than admirable.",
+  "commonMisuse": "Pedantic is sometimes used neutrally or even approvingly to mean 'careful' or 'thorough,' losing its built-in sting. It is also used to dismiss any correction at all as fussy, even when the point being corrected is substantive. A scholar is meticulous; a pedant is meticulous about things that do not matter.",
+  "exampleCorrect": "His footnotes had stopped illuminating the argument and become pedantic, listing every minor source he had touched in graduate school.",
+  "exampleMisused": "She described the surgeon as wonderfully pedantic, meaning to praise her care with the smallest details."
+ },
+ {
+  "word": "tenuous",
+  "partOfSpeech": "adjective",
+  "definition": "Weak, slight, or insubstantial; lacking in strength or substance. Often applied to connections, arguments, evidence, or links that are stretched too thin to hold up under scrutiny. The root sense is literally 'thin.'",
+  "commonMisuse": "Tenuous is sometimes used to mean 'uncertain' or 'tentative,' which is a different idea. A tenuous link is one that exists but is weak; a tentative link is one not yet committed to. The two words sound and look similar enough that they trade places in casual writing.",
+  "exampleCorrect": "The prosecution's case rested on a single witness's memory of a half-glimpsed face, a tenuous foundation for a murder charge.",
+  "exampleMisused": "We have a tenuous plan to meet next week, pending everyone's schedules."
+ },
+ {
+  "word": "disjointed",
+  "partOfSpeech": "adjective",
+  "definition": "Lacking coherent connection between parts; broken up or fragmented, as if pulled apart at the joints. Used most often for speech, writing, narratives, or arguments whose pieces do not flow into one another.",
+  "commonMisuse": "Disjointed is sometimes reached for as a general put-down for anything dull, weak, or simply bad. The precise meaning is narrower: the parts do not connect, like a body out of joint. A film with a slow second act is not disjointed; a film whose scenes do not relate to one another is.",
+  "exampleCorrect": "After the head injury his speech grew disjointed, jumping between topics with no thread tying them together.",
+  "exampleMisused": "I found the lecture disjointed because the speaker repeated himself and ran long."
  }
 ]
