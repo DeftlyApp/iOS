@@ -1998,5 +1998,77 @@
   "commonMisuse": "Disjointed is sometimes reached for as a general put-down for anything dull, weak, or simply bad. The precise meaning is narrower: the parts do not connect, like a body out of joint. A film with a slow second act is not disjointed; a film whose scenes do not relate to one another is.",
   "exampleCorrect": "After the head injury his speech grew disjointed, jumping between topics with no thread tying them together.",
   "exampleMisused": "I found the lecture disjointed because the speaker repeated himself and ran long."
+ },
+ {
+  "word": "pontificate",
+  "partOfSpeech": "verb",
+  "definition": "To express one's opinions in a pompous, dogmatic way, as if from a position of authority and without inviting reply. From the Latin pontifex, meaning high priest, with the implication that the speaker takes the priestly tone of settling a question rather than discussing it.",
+  "commonMisuse": "Pontificate is often used to mean simply 'hold forth' or 'speak at length on a topic,' shorn of its loaded, dismissive flavor. The point of the word is not the length but the manner: a person who pontificates is not really discussing, they are pronouncing, and they are not open to push-back. To explain a subject in depth is not to pontificate; to declare on it as though no further input is required is.",
+  "exampleCorrect": "He pontificated about the future of journalism for forty-five minutes, brushing aside questions until he finally checked his watch.",
+  "exampleMisused": "She pontificated cheerfully about her favorite restaurants in the city, meaning to share recommendations with friends."
+ },
+ {
+  "word": "flesh out",
+  "partOfSpeech": "phrasal verb",
+  "definition": "To add substance, detail, or completeness to something that exists only in outline or skeleton form. The image is of putting flesh onto bones, taking a frame and filling it in until the whole thing has body.",
+  "commonMisuse": "Constantly written as 'flush out,' from confusion with the hunting term meaning to drive game or a hidden quarry into the open. To flesh out a plan is to fill it in; to flush out a plan would be to expose a hidden one, which is almost never what the writer means. The cue is the bones: if you are adding, it is flesh.",
+  "exampleCorrect": "The committee met for an hour to flesh out the proposal before sending it to the board.",
+  "exampleMisused": "She asked the team to flush out the project plan before Monday's meeting."
+ },
+ {
+  "word": "down the pike",
+  "partOfSpeech": "idiom",
+  "definition": "Coming up, on the way, or expected in the near future. The picture is of something approaching along a turnpike, the old word for a toll road, so a thing 'coming down the pike' is one you can see on the road ahead.",
+  "commonMisuse": "Frequently rewritten as 'down the pipe,' as if the future arrived through a delivery tube. The original is 'down the pike,' with pike short for turnpike. A pipe carries water or sound; a pike carries travelers, and the idiom describes something coming toward you from a distance, not something being piped in.",
+  "exampleCorrect": "With several promising drugs coming down the pike, the company expects strong revenue growth over the next two years.",
+  "exampleMisused": "He warned that several new regulations were coming down the pipe that would affect the industry."
+ },
+ {
+  "word": "on the nose",
+  "partOfSpeech": "idiom",
+  "definition": "Exactly right or precisely accurate; in another sense, used in criticism of writing, dialogue, or performance to mean too literal or too obvious. The two senses share the image of hitting the target dead center.",
+  "commonMisuse": "On the nose is sometimes used for an estimate or guess that is merely close, when its point is exactness. It is also often missed in its critical sense: in fiction-writing circles, calling a line 'on the nose' is not praise but a complaint that the line states its meaning too plainly when something more oblique would land harder.",
+  "exampleCorrect": "Her prediction that the package would arrive Thursday at 3:14 p.m. turned out to be on the nose.",
+  "exampleMisused": "The reviewer praised the screenplay's dialogue as wonderfully on the nose, meaning to compliment its precision."
+ },
+ {
+  "word": "lay of the land",
+  "partOfSpeech": "idiom",
+  "definition": "The general arrangement, condition, or situation of something, especially as a basis for figuring out how to proceed. The image is literal terrain: a scout would survey the lay of the land before deciding on a route.",
+  "commonMisuse": "It is occasionally swapped with 'the law of the land,' a wholly different phrase meaning the rules in legal force across a country. To get the lay of the land is to scope out the situation; the law of the land is the constitution and statutes. One is terrain, the other is legislation.",
+  "exampleCorrect": "She spent her first week at the new firm walking the halls and asking quiet questions, getting the lay of the land before suggesting any changes.",
+  "exampleMisused": "Before redrawing the policy, the committee wanted to understand the law of the land within the organization, the memo read, when it meant the internal situation."
+ },
+ {
+  "word": "passive aggressive",
+  "partOfSpeech": "adjective",
+  "definition": "Expressing hostility, resentment, or resistance in an indirect way rather than openly, often through stubborn inaction, deliberate inefficiency, sullen compliance, or cutting remarks dressed up as innocent comments. The pattern is real anger delivered through a polite or compliant surface.",
+  "commonMisuse": "Passive aggressive is regularly stretched to mean any indirect, annoying, or socially awkward behavior, whether or not hostility is involved. A friend who is bad at texting back is not passive aggressive; a friend who delays answering on purpose because they are upset with you is. The mark of the term is hidden anger, not just indirectness.",
+  "exampleCorrect": "Rather than say outright that he disagreed with the plan, he turned passive aggressive: missing meetings, replying to emails a day late, and signing notes 'as discussed' on points that had never been discussed.",
+  "exampleMisused": "She called the waiter passive aggressive for forgetting their water twice, when nothing in his manner suggested anger at all."
+ },
+ {
+  "word": "ostensibly",
+  "partOfSpeech": "adverb",
+  "definition": "Apparently or on the face of it, with the implied suggestion that the real reason or true state of affairs may be different. To say something happened ostensibly for one reason is to hint that another, unstated reason was actually in play.",
+  "commonMisuse": "Ostensibly is sometimes used as a plain synonym for 'apparently' or 'supposedly,' stripped of the built-in skepticism that gives the word its bite. It is also frequently misspelled as 'obstensibly,' with an inserted b that does not belong, perhaps borrowed from 'obstinate' or 'obstruct.' The correct spelling has no b after the o.",
+  "exampleCorrect": "The retreat was ostensibly about strategy, but everyone knew the real agenda was deciding who would replace the retiring CEO.",
+  "exampleMisused": "She obstensibly forgot her umbrella at the office, when in fact she had left it on the train hours earlier."
+ },
+ {
+  "word": "windfall",
+  "partOfSpeech": "noun",
+  "definition": "A sudden, unexpected piece of good fortune, especially a financial one. The word originally named fruit blown from a tree by the wind, which belonged to whoever found it on the ground rather than to the owner of the tree.",
+  "commonMisuse": "Windfall is often used for any large benefit, whether unexpected or not. The point of the word is that the gain arrives without effort or anticipation. A bonus you negotiated for is not a windfall; a forgotten relative's inheritance is. Without the surprise, the metaphor of fruit blown down by the wind falls apart.",
+  "exampleCorrect": "The lawsuit settled for triple what they had asked for, a windfall that paid off the company's debt overnight.",
+  "exampleMisused": "She called her annual bonus a windfall, though it was the same amount she had received for each of the previous five years."
+ },
+ {
+  "word": "in earnest",
+  "partOfSpeech": "adverbial phrase",
+  "definition": "Seriously, with sincere intent and full commitment, as opposed to casually or for show. Used most often after 'begin,' 'start,' 'get under way,' or 'set to work,' marking the point where something stops being preliminary and becomes the real effort.",
+  "commonMisuse": "'Earnest' is regularly misspelled as 'ernest' or 'urnest,' because the word now lives mostly inside this phrase and a few proper names (Ernest, The Importance of Being Earnest). The root is the same as 'earnestness,' meaning seriousness of purpose; the spelling has nothing to do with urns or with the verb 'earn.'",
+  "exampleCorrect": "After two weeks of permits and inspections, construction finally began in earnest in late March.",
+  "exampleMisused": "Negotiations started in urnest after the holiday break, the press release read."
  }
 ]
