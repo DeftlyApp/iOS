@@ -2070,5 +2070,37 @@
   "commonMisuse": "'Earnest' is regularly misspelled as 'ernest' or 'urnest,' because the word now lives mostly inside this phrase and a few proper names (Ernest, The Importance of Being Earnest). The root is the same as 'earnestness,' meaning seriousness of purpose; the spelling has nothing to do with urns or with the verb 'earn.'",
   "exampleCorrect": "After two weeks of permits and inspections, construction finally began in earnest in late March.",
   "exampleMisused": "Negotiations started in urnest after the holiday break, the press release read."
+ },
+ {
+  "word": "ontological",
+  "partOfSpeech": "adjective",
+  "definition": "Relating to the philosophical study of being and existence; concerning what something fundamentally is rather than how it behaves or what it does. An ontological question asks whether, or in what sense, a thing exists at all.",
+  "commonMisuse": "Ontological is often reached for as a fancy way of saying 'fundamental,' 'deep,' or 'essential,' shorn of its actual subject. A pressing budget gap is not an ontological crisis; it is a financial one. Reserve ontological for moments when the real question is about the nature or existence of a thing, not its severity or importance.",
+  "exampleCorrect": "The novel raises an ontological question about whether the narrator exists as a person at all or only as a voice projected by the story.",
+  "exampleMisused": "He warned that the company faced an ontological crisis in its sales pipeline, when he meant a serious shortfall."
+ },
+ {
+  "word": "make ends meet",
+  "partOfSpeech": "idiom",
+  "definition": "To manage just enough income to cover one's expenses, leaving little or nothing left over. The image is of two ends of a length of cloth or rope brought together so they touch, with no overlap to spare.",
+  "commonMisuse": "Sometimes rewritten as 'make ends meat,' an eggcorn imagining meaty ends rather than two pieces being brought into contact. There is no meat involved. The phrase is also occasionally inflated to mean 'do well financially,' when its point is the opposite: scraping by, just barely covering what is owed.",
+  "exampleCorrect": "Between rent and student loans, she was working two jobs just to make ends meet.",
+  "exampleMisused": "The startup is making ends meat after a strong third quarter, the press release read."
+ },
+ {
+  "word": "cursory",
+  "partOfSpeech": "adjective",
+  "definition": "Done quickly and with little attention to detail; superficial. The word almost always carries a negative shade, marking the inspection or treatment as too hasty to count as thorough. From the same root as 'cursor,' suggesting something that merely runs across the surface.",
+  "commonMisuse": "Cursory is sometimes used as a neutral synonym for 'brief' or 'efficient,' missing its built-in criticism. A cursory glance is one that did not really look; a cursory review is one too rushed to catch errors. It is also occasionally confused with 'cursive' (a style of handwriting), with which it shares only the first syllable.",
+  "exampleCorrect": "The auditor's cursory review missed the discrepancy in the third-quarter ledger, which surfaced only when the bank flagged it months later.",
+  "exampleMisused": "She thanked the contractor for his cursory work on the kitchen renovation, meaning to praise his efficiency."
+ },
+ {
+  "word": "idyllic",
+  "partOfSpeech": "adjective",
+  "definition": "Resembling an idyll: extremely peaceful, happy, or picturesque, often with the flavor of pastoral perfection that feels almost too good to be true. The word evokes a scene worth painting, not merely a pleasant one.",
+  "commonMisuse": "Idyllic is regularly used for any agreeable setting, draining the specific sense of pastoral, almost-fictional bliss. A clean hotel room is not idyllic; a meadow at dawn might be. It is also sometimes confused with 'ideal,' a different word that means optimal or perfectly suited rather than romantically peaceful.",
+  "exampleCorrect": "They spent two weeks in an idyllic stone cottage on the Devon coast, the kind of place where the kettle whistled and no one mentioned email.",
+  "exampleMisused": "She described the office as idyllic, meaning the chairs were comfortable and the coffee was free."
  }
 ]
